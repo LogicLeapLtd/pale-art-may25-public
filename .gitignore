@@ -33,3 +33,6 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 node_modules/
+public/steve_tootell/products/Steve Branding/
+public/steve_tootell/products/Apple_Tree_Studios.jpg
+public/susan_cantrill_williams/products/susan_product_001.png
