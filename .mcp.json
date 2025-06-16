@@ -1,0 +1,21 @@
+{
+    "mcpServers": {
+      "supabase": {
+        "command": "npx",
+        "args": [
+          "-y",
+          "@supabase/mcp-server-supabase@latest",
+          "--access-token",
+          "sbp_74a143fc958333fc9eb2683dd34bacc3bed6f572"
+        ]
+      },
+      "neon": {
+        "command": "npx",
+        "args": [
+          "-y",
+          "mcp-remote",
+          "https://mcp.neon.tech/sse"
+        ]
+      }
+    }
+  }

@@ -1,0 +1,13 @@
+{
+  "buildCommand": "prisma generate && prisma db push && next build",
+  "devCommand": "next dev",
+  "installCommand": "npm install",
+  "env": {
+    "PRISMA_GENERATE_DATAPROXY": "true"
+  },
+  "functions": {
+    "app/**": {
+      "maxDuration": 30
+    }
+  }
+}

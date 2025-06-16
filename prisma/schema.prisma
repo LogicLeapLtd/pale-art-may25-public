@@ -1,0 +1,85 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Product {
+  id                 String   @id
+  name               String
+  price              String
+  originalImageUrl   String
+  originalProductUrl String
+  localImagePath     String?
+  description        String?
+  createdAt          DateTime @default(now())
+  updatedAt          DateTime
+  artist             String?
+  dimensions         String?
+  featured           Boolean  @default(false)
+  medium             String?
+  year               String?
+  slug               String?
+  status             String?  @default("available")
+  category           String?
+  qrCodeUrl          String?
+
+  @@index([name])
+}
+
+model Artist {
+  id           String   @id
+  name         String   @unique
+  slug         String   @unique
+  title        String
+  biography    String
+  portfolioUrl String?
+  featured     Boolean  @default(false)
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+  imageUrl     String?
+
+  @@index([name])
+  @@index([slug])
+}
+
+model TestConnection {
+  id        String   @id
+  createdAt DateTime @default(now())
+  message   String
+}
+
+model Activity {
+  id          String   @id @default(cuid())
+  type        String
+  title       String
+  description String?
+  artworkId   String?
+  artworkName String?
+  artistName  String?
+  metadata    Json?
+  createdAt   DateTime @default(now())
+
+  @@index([type])
+  @@index([createdAt])
+}
+
+model Enquiry {
+  id          String   @id @default(cuid())
+  name        String
+  email       String
+  phone       String?
+  subject     String
+  message     String
+  artworkId   String?
+  artworkName String?
+  status      String   @default("new")
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  @@index([status])
+  @@index([createdAt])
+}

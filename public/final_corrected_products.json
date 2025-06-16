@@ -1,0 +1,911 @@
+[
+  {
+    "title": "Alfred Bachman [1863 � 1956]",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/alfred-bachman-1863-1956",
+    "image": "https://static.wixstatic.com/media/a53d5f_31aaad8328144a3abb792428167da9c1~mv2.jpg/v1/fill/w_299,h_231,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/a53d5f_31aaad8328144a3abb792428167da9c1~mv2.jpg",
+    "local_image": "product_images/001_Alfred_Bachman_[1863___1956].jpg"
+  },
+  {
+    "title": "The Painting School of Canaletto",
+    "artist": "School of Canaletto",
+    "category": "identified",
+    "confidence": "medium",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/the-painting-school-of-canaletto",
+    "image": "https://static.wixstatic.com/media/a53d5f_a9f94017c352416395651546ce7ee8d1~mv2.jpg/v1/fill/w_299,h_249,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/a53d5f_a9f94017c352416395651546ce7ee8d1~mv2.jpg",
+    "local_image": "product_images/002_The_Painting_School_of_Canaletto.jpg"
+  },
+  {
+    "title": "River Dee",
+    "artist": "Philippa Jacobs",
+    "category": "identified",
+    "confidence": "high",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/river-dee",
+    "image": "https://static.wixstatic.com/media/a53d5f_9ad8bb0a27084ba38728b1e8de6d212d~mv2.jpg/v1/fill/w_299,h_203,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/a53d5f_9ad8bb0a27084ba38728b1e8de6d212d~mv2.jpg",
+    "local_image": "product_images/003_River_Dee.jpg"
+  },
+  {
+    "title": "Painting School of Canaletto",
+    "artist": "School of Canaletto",
+    "category": "identified",
+    "confidence": "medium",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/painting-school-of-canaletto",
+    "image": "https://static.wixstatic.com/media/a53d5f_6ac899ce8a0e47ff83288cc824176d7b~mv2.jpg/v1/fill/w_299,h_286,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/a53d5f_6ac899ce8a0e47ff83288cc824176d7b~mv2.jpg",
+    "local_image": "product_images/004_Painting_School_of_Canaletto.jpg"
+  },
+  {
+    "title": "Temptation of Eros",
+    "artist": "Philippa Jacobs",
+    "category": "identified",
+    "confidence": "high",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/temptation-of-eros",
+    "image": "https://static.wixstatic.com/media/a53d5f_9a2eead3b9494d28b5d05b46d6907792~mv2.jpg/v1/fill/w_253,h_299,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/a53d5f_9a2eead3b9494d28b5d05b46d6907792~mv2.jpg",
+    "local_image": "product_images/005_Temptation_of_Eros.jpg"
+  },
+  {
+    "title": "Jean Simon Labret",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/jean-simon-labret",
+    "image": "https://static.wixstatic.com/media/a53d5f_4725331f94e24628b02066b00659b5bf~mv2.jpg/v1/fill/w_250,h_299,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/a53d5f_4725331f94e24628b02066b00659b5bf~mv2.jpg",
+    "local_image": "product_images/006_Jean_Simon_Labret.jpg"
+  },
+  {
+    "title": "Hollyhocks",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/hollyhocks",
+    "image": "https://static.wixstatic.com/media/a53d5f_154e7e0baf6a45f2b2be2c5d66009eb5~mv2.jpg/v1/fill/w_147,h_192,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/a53d5f_154e7e0baf6a45f2b2be2c5d66009eb5~mv2.jpg",
+    "local_image": "product_images/007_Hollyhocks.jpg"
+  },
+  {
+    "title": "Concourse",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/concourse",
+    "image": "https://static.wixstatic.com/media/a53d5f_1d8bb5a946d14625807c66ef9948d6e4~mv2.jpg/v1/fill/w_147,h_169,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/a53d5f_1d8bb5a946d14625807c66ef9948d6e4~mv2.jpg",
+    "local_image": "product_images/008_Concourse.jpg"
+  },
+  {
+    "title": "Frieize of Wallflowers #2",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/frieize-of-wallflowers-2",
+    "image": "https://static.wixstatic.com/media/a53d5f_09ff0186a7654b31b7429aea80337b1c~mv2.jpg/v1/fill/w_147,h_94,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/a53d5f_09ff0186a7654b31b7429aea80337b1c~mv2.jpg",
+    "local_image": "product_images/009_Frieize_of_Wallflowers__2.jpg"
+  },
+  {
+    "title": "Passing Snowstorm Over The Dee Valley",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/passing-snowstorm-over-the-dee-valley",
+    "image": "https://static.wixstatic.com/media/a53d5f_07e7ef096feb4088bec9ca4ad74dad98~mv2.jpg/v1/fill/w_147,h_121,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/a53d5f_07e7ef096feb4088bec9ca4ad74dad98~mv2.jpg",
+    "local_image": "product_images/010_Passing_Snowstorm_Over_The_Dee_Valley.jpg"
+  },
+  {
+    "title": "Frieize Of Wallflowers #1",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/frieize-of-wallflowers-1",
+    "image": "https://static.wixstatic.com/media/a53d5f_627be0dbeb1441dc86aa1fbbe732f84d~mv2.jpg/v1/fill/w_147,h_89,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/a53d5f_627be0dbeb1441dc86aa1fbbe732f84d~mv2.jpg",
+    "local_image": "product_images/011_Frieize_Of_Wallflowers__1.jpg"
+  },
+  {
+    "title": "Romeo and Juliet",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/romeo-and-juliet",
+    "image": "https://static.wixstatic.com/media/a53d5f_2d371e33cffb49f8bbe8b2dc625c083c~mv2.jpg/v1/fill/w_147,h_92,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/a53d5f_2d371e33cffb49f8bbe8b2dc625c083c~mv2.jpg",
+    "local_image": "product_images/012_Romeo_and_Juliet.jpg"
+  },
+  {
+    "title": "French Street Scene",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/french-street-scene",
+    "image": "https://static.wixstatic.com/media/a53d5f_bafd290d28c74d61b75886921e0cb200~mv2.jpg/v1/fill/w_147,h_122,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/a53d5f_bafd290d28c74d61b75886921e0cb200~mv2.jpg",
+    "local_image": "product_images/013_French_Street_Scene.jpg"
+  },
+  {
+    "title": "Children on a street corner",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/children-on-a-street-corner",
+    "image": "https://static.wixstatic.com/media/a53d5f_45f9ef8766aa470b878936af23d25234~mv2.jpg/v1/fill/w_147,h_195,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/a53d5f_45f9ef8766aa470b878936af23d25234~mv2.jpg",
+    "local_image": "product_images/014_Children_on_a_street_corner.jpg"
+  },
+  {
+    "title": "Oude Scheld - Texel Island",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/oude-scheld-texel-island",
+    "image": "https://static.wixstatic.com/media/a53d5f_eb1590017bd64ce1b40a5ed90e9ebea3~mv2.jpg/v1/fill/w_147,h_121,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/a53d5f_eb1590017bd64ce1b40a5ed90e9ebea3~mv2.jpg",
+    "local_image": "product_images/015_Oude_Scheld_-_Texel_Island.jpg"
+  },
+  {
+    "title": "Terriers at a rabbit hole",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/terriers-at-a-rabbit-hole",
+    "image": "https://static.wixstatic.com/media/a53d5f_2ff9fa0210ef4b2d9d11dda6bda67ba8~mv2.jpg/v1/fill/w_147,h_97,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/a53d5f_2ff9fa0210ef4b2d9d11dda6bda67ba8~mv2.jpg",
+    "local_image": "product_images/016_Terriers_at_a_rabbit_hole.jpg"
+  },
+  {
+    "title": "Looking towards the harbour",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/looking-towards-the-harbour",
+    "image": "https://static.wixstatic.com/media/a53d5f_8e191c031b0843fb9ef95a9eb9244993~mv2.jpg/v1/fill/w_147,h_227,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/a53d5f_8e191c031b0843fb9ef95a9eb9244993~mv2.jpg",
+    "local_image": "product_images/017_Looking_towards_the_harbour.jpg"
+  },
+  {
+    "title": "Gundog pair stalking grouse in cover",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/gundog-pair-stalking-grouse-in-cover",
+    "image": "https://static.wixstatic.com/media/a53d5f_ecbadf171d4a48829a61afac2eddb18f~mv2.jpg/v1/fill/w_147,h_119,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/a53d5f_ecbadf171d4a48829a61afac2eddb18f~mv2.jpg",
+    "local_image": "product_images/018_Gundog_pair_stalking_grouse_in_cover.jpg"
+  },
+  {
+    "title": "Abstract still life",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/abstract-still-life",
+    "image": "https://static.wixstatic.com/media/a53d5f_eaab92ed3134449fbf5c10328a20d254~mv2.jpg/v1/fill/w_147,h_173,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/a53d5f_eaab92ed3134449fbf5c10328a20d254~mv2.jpg",
+    "local_image": "product_images/019_Abstract_still_life.jpg"
+  },
+  {
+    "title": "The Fuel Gatherers",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/the-fuel-gatherers",
+    "image": "https://static.wixstatic.com/media/a53d5f_e5a4232435c847fe9bef74fed47cb579~mv2.jpg/v1/fill/w_147,h_112,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/a53d5f_e5a4232435c847fe9bef74fed47cb579~mv2.jpg",
+    "local_image": "product_images/020_The_Fuel_Gatherers.jpg"
+  },
+  {
+    "title": "The Hedgecutter",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/the-hedgecutter",
+    "image": "https://static.wixstatic.com/media/a53d5f_09d11a967fca4893a5a86e42c2857e4c~mv2.jpg/v1/fill/w_147,h_122,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/a53d5f_09d11a967fca4893a5a86e42c2857e4c~mv2.jpg",
+    "local_image": "product_images/021_The_Hedgecutter.jpg"
+  },
+  {
+    "title": "Ice skaters on a frozen river",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/ice-skaters-on-a-frozen-river",
+    "image": "https://static.wixstatic.com/media/a53d5f_2533d320ea054e3781e2ed7817f154b7~mv2.jpg/v1/fill/w_147,h_118,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/a53d5f_2533d320ea054e3781e2ed7817f154b7~mv2.jpg",
+    "local_image": "product_images/022_Ice_skaters_on_a_frozen_river.jpg"
+  },
+  {
+    "title": "Cottage Landscape",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/cottage-landscape",
+    "image": "https://static.wixstatic.com/media/a53d5f_fc8cd4d497f341ff985f5f2232cdec2c~mv2.jpg/v1/fill/w_147,h_98,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/a53d5f_fc8cd4d497f341ff985f5f2232cdec2c~mv2.jpg",
+    "local_image": "product_images/023_Cottage_Landscape.jpg"
+  },
+  {
+    "title": "Cockatoo",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/cockatoo",
+    "image": "https://static.wixstatic.com/media/a53d5f_c9ab6e86c8df47008ec911ebe82e4adc~mv2.jpg/v1/fill/w_147,h_337,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/a53d5f_c9ab6e86c8df47008ec911ebe82e4adc~mv2.jpg",
+    "local_image": "product_images/024_Cockatoo.jpg"
+  },
+  {
+    "title": "Viaggio Verso il Nord 1972",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/viaggio-verso-il-nord-1972",
+    "image": "https://static.wixstatic.com/media/a53d5f_363ef65a68184165acab9a14d7943cd4~mv2.jpg/v1/fill/w_224,h_299,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/a53d5f_363ef65a68184165acab9a14d7943cd4~mv2.jpg",
+    "local_image": "product_images/025_Viaggio_Verso_il_Nord_1972.jpg"
+  },
+  {
+    "title": "Viaggio Verso II Nord",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/viaggio-verso-ii-nord",
+    "image": "https://static.wixstatic.com/media/a53d5f_8b7f276c22a04e30b242fda1072615ba~mv2.jpg/v1/fill/w_299,h_211,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/a53d5f_8b7f276c22a04e30b242fda1072615ba~mv2.jpg",
+    "local_image": "product_images/026_Viaggio_Verso_II_Nord.jpg"
+  },
+  {
+    "title": "The Steps",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/the-steps",
+    "image": "https://static.wixstatic.com/media/a53d5f_f473258c000f4a10b9e86c689c09df12~mv2.jpg/v1/fill/w_299,h_259,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/a53d5f_f473258c000f4a10b9e86c689c09df12~mv2.jpg",
+    "local_image": "product_images/027_The_Steps.jpg"
+  },
+  {
+    "title": "Verso",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/verso",
+    "image": "https://static.wixstatic.com/media/a53d5f_ba17fc3fccb34111a2e886aa8b1f113a~mv2.jpg/v1/fill/w_299,h_126,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/a53d5f_ba17fc3fccb34111a2e886aa8b1f113a~mv2.jpg",
+    "local_image": "product_images/028_Verso.jpg"
+  },
+  {
+    "title": "St James",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/st-james",
+    "image": "https://static.wixstatic.com/media/a53d5f_81cf56d3943a4d11b3cb64746f6b4c95~mv2.jpg/v1/fill/w_299,h_227,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/a53d5f_81cf56d3943a4d11b3cb64746f6b4c95~mv2.jpg",
+    "local_image": "product_images/029_St_James.jpg"
+  },
+  {
+    "title": "How many ages",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/how-many-ages",
+    "image": "https://static.wixstatic.com/media/a53d5f_86896c37e0e84e3391a305008a612699~mv2.jpg/v1/fill/w_199,h_299,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/a53d5f_86896c37e0e84e3391a305008a612699~mv2.jpg",
+    "local_image": "product_images/030_How_many_ages.jpg"
+  },
+  {
+    "title": "Faith",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/faith",
+    "image": "https://static.wixstatic.com/media/a53d5f_082d847941a94d85a84a0bc542c28ea9~mv2.jpg/v1/fill/w_147,h_216,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/a53d5f_082d847941a94d85a84a0bc542c28ea9~mv2.jpg",
+    "local_image": "product_images/031_Faith.jpg"
+  },
+  {
+    "title": "Under the Yew Tree",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/under-the-yew-tree",
+    "image": "https://static.wixstatic.com/media/a53d5f_a42d39654c8b4a1ab60cd654a620d01c~mv2.jpg/v1/fill/w_147,h_234,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/a53d5f_a42d39654c8b4a1ab60cd654a620d01c~mv2.jpg",
+    "local_image": "product_images/032_Under_the_Yew_Tree.jpg"
+  },
+  {
+    "title": "Robert Owen",
+    "artist": "Robert Owen",
+    "category": "identified",
+    "confidence": "low",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/robert-owen",
+    "image": "https://static.wixstatic.com/media/a53d5f_cd040c277a494440ba461a10c3e64bdb~mv2.jpg/v1/fill/w_147,h_198,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/a53d5f_cd040c277a494440ba461a10c3e64bdb~mv2.jpg",
+    "local_image": "product_images/033_Robert_Owen.jpg"
+  },
+  {
+    "title": "Nobody Can Stop an Idea Whose Time Has Come'",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/nobody-can-stop-an-idea-whose-time-has-come",
+    "image": "https://static.wixstatic.com/media/a53d5f_82a9f89886044541bbf7d33c9492f071~mv2.jpg/v1/fill/w_147,h_203,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/a53d5f_82a9f89886044541bbf7d33c9492f071~mv2.jpg",
+    "local_image": "product_images/034_Nobody_Can_Stop_an_Idea_Whose_Time_Has_Come.jpg"
+  },
+  {
+    "title": "Profile in Courage",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/profile-in-courage",
+    "image": "https://static.wixstatic.com/media/a53d5f_42a4a5045bf84b52a78d7868cbece29d~mv2.jpg/v1/fill/w_147,h_189,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/a53d5f_42a4a5045bf84b52a78d7868cbece29d~mv2.jpg",
+    "local_image": "product_images/035_Profile_in_Courage.jpg"
+  },
+  {
+    "title": "Free at last",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/free-at-last",
+    "image": "https://static.wixstatic.com/media/a53d5f_75996bf211c64c989069bd642a53c1b4~mv2.jpg/v1/fill/w_147,h_219,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/a53d5f_75996bf211c64c989069bd642a53c1b4~mv2.jpg",
+    "local_image": "product_images/036_Free_at_last.jpg"
+  },
+  {
+    "title": "Everybody Wants to be Somebody",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/everybody-wants-to-be-somebody",
+    "image": "https://static.wixstatic.com/media/a53d5f_d92dd02eb4a5480ab143225a087ba15c~mv2.jpg/v1/fill/w_147,h_212,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/a53d5f_d92dd02eb4a5480ab143225a087ba15c~mv2.jpg",
+    "local_image": "product_images/037_Everybody_Wants_to_be_Somebody.jpg"
+  },
+  {
+    "title": "London",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/london",
+    "image": "https://static.wixstatic.com/media/a53d5f_1c9a9f8812d34c70b14194acc65041ef~mv2.jpg/v1/fill/w_147,h_211,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/a53d5f_1c9a9f8812d34c70b14194acc65041ef~mv2.jpg",
+    "local_image": "product_images/038_London.jpg"
+  },
+  {
+    "title": "Tyger Tyger",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/tyger-tyger",
+    "image": "https://static.wixstatic.com/media/a53d5f_8d9033140a904cee9feb73f17582be03~mv2.jpg/v1/fill/w_147,h_223,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/a53d5f_8d9033140a904cee9feb73f17582be03~mv2.jpg",
+    "local_image": "product_images/040_Tyger_Tyger.jpg"
+  },
+  {
+    "title": "Australian Crucifixion",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/australian-crucifixion",
+    "image": "https://static.wixstatic.com/media/a53d5f_aa518e8776ea4dd4b96cf2670629e53a~mv2.jpg/v1/fill/w_147,h_229,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/a53d5f_aa518e8776ea4dd4b96cf2670629e53a~mv2.jpg",
+    "local_image": "product_images/041_Australian_Crucifixion.jpg"
+  },
+  {
+    "title": "Three Blind Women & The Drunk",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/three-blind-women-the-drunk",
+    "image": "https://static.wixstatic.com/media/a53d5f_131687e3a5954faa914685a6f9e2bdc9~mv2.jpg/v1/fill/w_147,h_118,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/a53d5f_131687e3a5954faa914685a6f9e2bdc9~mv2.jpg",
+    "local_image": "product_images/042_Three_Blind_Women___The_Drunk.jpg"
+  },
+  {
+    "title": "The Brangwyn Portfolio of lithographs",
+    "artist": "Frank Brangwyn",
+    "category": "identified",
+    "confidence": "high",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/the-brangwyn-portfolio-of-lithographs",
+    "image": "https://static.wixstatic.com/media/a53d5f_8bdc90d6efa84b2887def8fcdc774727~mv2.jpg/v1/fill/w_147,h_196,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/a53d5f_8bdc90d6efa84b2887def8fcdc774727~mv2.jpg",
+    "local_image": "product_images/043_The_Brangwyn_Portfolio_of_lithographs.jpg"
+  },
+  {
+    "title": "The Brangwyn Portfolio of lithographs, with additional etchings,",
+    "artist": "Frank Brangwyn",
+    "category": "identified",
+    "confidence": "high",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/the-brangwyn-portfolio-of-lithographs-with-additional-etchings",
+    "image": "https://static.wixstatic.com/media/a53d5f_8bdc90d6efa84b2887def8fcdc774727~mv2.jpg/v1/fill/w_147,h_196,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/a53d5f_8bdc90d6efa84b2887def8fcdc774727~mv2.jpg",
+    "local_image": "product_images/044_The_Brangwyn_Portfolio_of_lithographs__with_additional_etchings.jpg"
+  },
+  {
+    "title": "Victoria & Albert Museum",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/victoria-albert-museum",
+    "image": "https://static.wixstatic.com/media/a53d5f_9142f227aafc44a5b2fc879fc8aca48f~mv2.jpg/v1/fill/w_147,h_132,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/a53d5f_9142f227aafc44a5b2fc879fc8aca48f~mv2.jpg",
+    "local_image": "product_images/045_Victoria___Albert_Museum.jpg"
+  },
+  {
+    "title": "Portrait of Mair Stuart",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/portrait-of-mair-stuart",
+    "image": "https://static.wixstatic.com/media/a53d5f_fcc032099d4d4677a7918ba783dbb009~mv2.jpg/v1/fill/w_147,h_190,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/a53d5f_fcc032099d4d4677a7918ba783dbb009~mv2.jpg",
+    "local_image": "product_images/046_Portrait_of_Mair_Stuart.jpg"
+  },
+  {
+    "title": "Sloop Inn, St. Ives",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/sloop-inn-st-ives",
+    "image": "https://static.wixstatic.com/media/a53d5f_2ecbd830848142f2a553ef9f73dccd50~mv2.jpg/v1/fill/w_147,h_100,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/a53d5f_2ecbd830848142f2a553ef9f73dccd50~mv2.jpg",
+    "local_image": "product_images/047_Sloop_Inn__St._Ives.jpg"
+  },
+  {
+    "title": "Gower Beach",
+    "artist": "Unknown Welsh Artist",
+    "category": "unidentified",
+    "confidence": "medium",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/gower-beach",
+    "image": "https://static.wixstatic.com/media/a53d5f_d0775dfd95ba4faf9072277a53e90c78~mv2.jpg/v1/fill/w_147,h_91,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/a53d5f_d0775dfd95ba4faf9072277a53e90c78~mv2.jpg",
+    "local_image": "product_images/048_Gower_Beach.jpg"
+  },
+  {
+    "title": "Moon Dog",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/moon-dog",
+    "image": "https://static.wixstatic.com/media/a53d5f_3f4452faafc54e18a64379d86eb115d1~mv2.jpg/v1/fill/w_224,h_299,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/a53d5f_3f4452faafc54e18a64379d86eb115d1~mv2.jpg",
+    "local_image": "product_images/049_Moon_Dog.jpg"
+  },
+  {
+    "title": "Feeding the Birds",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/feeding-the-birds",
+    "image": "https://static.wixstatic.com/media/a53d5f_9719f50bc83c4cfabdff5a0bdcb19801~mv2.jpg/v1/fill/w_217,h_299,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/a53d5f_9719f50bc83c4cfabdff5a0bdcb19801~mv2.jpg",
+    "local_image": "product_images/050_Feeding_the_Birds.jpg"
+  },
+  {
+    "title": "Anyworld",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/anyworld",
+    "image": "https://static.wixstatic.com/media/a53d5f_2fa4880acfe4459a8c31b29fba353b09~mv2.jpg/v1/fill/w_231,h_299,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/a53d5f_2fa4880acfe4459a8c31b29fba353b09~mv2.jpg",
+    "local_image": "product_images/051_Anyworld.jpg"
+  },
+  {
+    "title": "Eric, Gwern Borter, 1924",
+    "artist": "Gwern Borter",
+    "category": "identified",
+    "confidence": "medium",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/eric-gwern-borter-1924",
+    "image": "https://static.wixstatic.com/media/a53d5f_256d6b4e81d7401690bfdd97f92f9f74~mv2.jpg/v1/fill/w_299,h_203,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/a53d5f_256d6b4e81d7401690bfdd97f92f9f74~mv2.jpg",
+    "local_image": "product_images/052_Eric__Gwern_Borter__1924.jpg"
+  },
+  {
+    "title": "All Flash",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/all-flash",
+    "image": "https://static.wixstatic.com/media/a53d5f_4fe7ba5e0494424e94e267c69b6c80ff~mv2.jpg/v1/fill/w_231,h_299,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/a53d5f_4fe7ba5e0494424e94e267c69b6c80ff~mv2.jpg",
+    "local_image": "product_images/053_All_Flash.jpg"
+  },
+  {
+    "title": "Coastal view at Dusk, Saundersfoot, Pembrokeshire",
+    "artist": "Unknown Welsh Artist",
+    "category": "unidentified",
+    "confidence": "medium",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/coastal-view-at-dusk-saundersfoot-pembrokeshire",
+    "image": "https://static.wixstatic.com/media/a53d5f_f6e061b3776242069af8abcafcc2ae87~mv2.jpg/v1/fill/w_299,h_184,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/a53d5f_f6e061b3776242069af8abcafcc2ae87~mv2.jpg",
+    "local_image": "product_images/054_Coastal_view_at_Dusk__Saundersfoot__Pembrokeshire.jpg"
+  },
+  {
+    "title": "Bathers",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/bathers",
+    "image": "https://static.wixstatic.com/media/a53d5f_1b0456942b984bde8369ec5be5fdbc38~mv2.jpg/v1/fill/w_147,h_196,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/a53d5f_1b0456942b984bde8369ec5be5fdbc38~mv2.jpg",
+    "local_image": "product_images/055_Bathers.jpg"
+  },
+  {
+    "title": "The Rising Moon",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/the-rising-moon",
+    "image": "https://static.wixstatic.com/media/a53d5f_a83faf36d426482abbb9d10ec1005a05~mv2.jpg/v1/fill/w_147,h_113,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/a53d5f_a83faf36d426482abbb9d10ec1005a05~mv2.jpg",
+    "local_image": "product_images/056_The_Rising_Moon.jpg"
+  },
+  {
+    "title": "Buchod Dafydd",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/buchod-dafydd",
+    "image": "https://static.wixstatic.com/media/a53d5f_b3fb6b5f97f44d308a7f1005e869ec1a~mv2.jpg/v1/fill/w_147,h_223,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/a53d5f_b3fb6b5f97f44d308a7f1005e869ec1a~mv2.jpg",
+    "local_image": "product_images/057_Buchod_Dafydd.jpg"
+  },
+  {
+    "title": "Porth Uchaf",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/porth-uchaf",
+    "image": "https://static.wixstatic.com/media/a53d5f_63039282242445558b9d6de8e6694631~mv2.jpg/v1/fill/w_147,h_83,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/a53d5f_63039282242445558b9d6de8e6694631~mv2.jpg",
+    "local_image": "product_images/058_Porth_Uchaf.jpg"
+  },
+  {
+    "title": "Group of Standing Farmers",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/group-of-standing-farmers",
+    "image": "https://static.wixstatic.com/media/a53d5f_b7867c4c9d7c460ab74e3e53f713caa7~mv2.jpg/v1/fill/w_147,h_109,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/a53d5f_b7867c4c9d7c460ab74e3e53f713caa7~mv2.jpg",
+    "local_image": "product_images/059_Group_of_Standing_Farmers.jpg"
+  },
+  {
+    "title": "Colourful Study of Figure on Mule",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/colourful-study-of-figure-on-mule",
+    "image": "https://static.wixstatic.com/media/a53d5f_d7b0853986d544299f6cf7a51ce2e5ec~mv2.jpg/v1/fill/w_147,h_113,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/a53d5f_d7b0853986d544299f6cf7a51ce2e5ec~mv2.jpg",
+    "local_image": "product_images/060_Colourful_Study_of_Figure_on_Mule.jpg"
+  },
+  {
+    "title": "Landscape Series No.37",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/landscape-series-no-37",
+    "image": "https://static.wixstatic.com/media/a53d5f_66172aa5e32240c498ce2cf0d4efe8cf~mv2.jpg/v1/fill/w_147,h_162,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/a53d5f_66172aa5e32240c498ce2cf0d4efe8cf~mv2.jpg",
+    "local_image": "product_images/061_Landscape_Series_No.37.jpg"
+  },
+  {
+    "title": "Hon",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/hon",
+    "image": "https://static.wixstatic.com/media/a53d5f_d8e0955e865f4bc09ce560cb249aca34~mv2.jpg/v1/fill/w_147,h_191,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/a53d5f_d8e0955e865f4bc09ce560cb249aca34~mv2.jpg",
+    "local_image": "product_images/062_Hon.jpg"
+  },
+  {
+    "title": "Figure at Doorway with Garden",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/figure-at-doorway-with-garden",
+    "image": "https://static.wixstatic.com/media/a53d5f_ae9c1ad8f8f84d5ca21f807bdb23350b~mv2.jpg/v1/fill/w_147,h_96,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/a53d5f_ae9c1ad8f8f84d5ca21f807bdb23350b~mv2.jpg",
+    "local_image": "product_images/063_Figure_at_Doorway_with_Garden.jpg"
+  },
+  {
+    "title": "Still Life with Olives",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/still-life-with-olives",
+    "image": "https://static.wixstatic.com/media/a53d5f_8e895a18125e445ca70bb2ad415a930d~mv2.jpg/v1/fill/w_147,h_182,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/a53d5f_8e895a18125e445ca70bb2ad415a930d~mv2.jpg",
+    "local_image": "product_images/064_Still_Life_with_Olives.jpg"
+  },
+  {
+    "title": "Llanfachraeth",
+    "artist": "Unknown Welsh Artist",
+    "category": "unidentified",
+    "confidence": "medium",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/llanfachraeth",
+    "image": "https://static.wixstatic.com/media/a53d5f_11fe3bb709a240a1a77a63c4ab9df030~mv2.jpg/v1/fill/w_147,h_63,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/a53d5f_11fe3bb709a240a1a77a63c4ab9df030~mv2.jpg",
+    "local_image": "product_images/065_Llanfachraeth.jpg"
+  },
+  {
+    "title": "Misty Flooded Moorland",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/misty-flooded-moorland",
+    "image": "https://static.wixstatic.com/media/a53d5f_ad357d3a254048ba887a4be11e2b547a~mv2.jpg/v1/fill/w_147,h_44,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/a53d5f_ad357d3a254048ba887a4be11e2b547a~mv2.jpg",
+    "local_image": "product_images/066_Misty_Flooded_Moorland.jpg"
+  },
+  {
+    "title": "Fishing Boats, Marina",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/fishing-boats-marina",
+    "image": "https://static.wixstatic.com/media/a53d5f_ee16641256ab4682b2aa64dd52d8aef6~mv2.jpg/v1/fill/w_147,h_122,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/a53d5f_ee16641256ab4682b2aa64dd52d8aef6~mv2.jpg",
+    "local_image": "product_images/067_Fishing_Boats__Marina.jpg"
+  },
+  {
+    "title": "Llyn-y-Fan Fach",
+    "artist": "Unknown Welsh Artist",
+    "category": "unidentified",
+    "confidence": "medium",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/llyn-y-fan-fach",
+    "image": "https://static.wixstatic.com/media/a53d5f_350dd02a72654b32bbf6efe54cf386a4~mv2.jpg/v1/fill/w_147,h_108,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/a53d5f_350dd02a72654b32bbf6efe54cf386a4~mv2.jpg",
+    "local_image": "product_images/068_Llyn-y-Fan_Fach.jpg"
+  },
+  {
+    "title": "Anglesey in Winter",
+    "artist": "Unknown Welsh Artist",
+    "category": "unidentified",
+    "confidence": "medium",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/anglesey-in-winter",
+    "image": "https://static.wixstatic.com/media/a53d5f_e44448d1a101426f9902cb5271ee9265~mv2.jpg/v1/fill/w_147,h_87,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/a53d5f_e44448d1a101426f9902cb5271ee9265~mv2.jpg",
+    "local_image": "product_images/069_Anglesey_in_Winter.jpg"
+  },
+  {
+    "title": "Road to the Mine, Blaenau Ffestiniog",
+    "artist": "Unknown Welsh Artist",
+    "category": "unidentified",
+    "confidence": "medium",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/road-to-the-mine-blaenau-ffestiniog",
+    "image": "https://static.wixstatic.com/media/a53d5f_c079d4c4bada46158f6d7d6b9174fc02~mv2.jpg/v1/fill/w_147,h_177,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/a53d5f_c079d4c4bada46158f6d7d6b9174fc02~mv2.jpg",
+    "local_image": "product_images/070_Road_to_the_Mine__Blaenau_Ffestiniog.jpg"
+  },
+  {
+    "title": "Farmer with Walking Stick",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/farmer-with-walking-stick",
+    "image": "https://static.wixstatic.com/media/a53d5f_6196602bff634e808638d5a8ad4246da~mv2.jpg/v1/fill/w_147,h_185,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/a53d5f_6196602bff634e808638d5a8ad4246da~mv2.jpg",
+    "local_image": "product_images/071_Farmer_with_Walking_Stick.jpg"
+  },
+  {
+    "title": "Farmer in Overcoat with Walking Stick",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/farmer-in-overcoat-with-walking-stick",
+    "image": "https://static.wixstatic.com/media/a53d5f_505753748ed345f7b56537a97eae4936~mv2.jpg/v1/fill/w_147,h_209,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/a53d5f_505753748ed345f7b56537a97eae4936~mv2.jpg",
+    "local_image": "product_images/072_Farmer_in_Overcoat_with_Walking_Stick.jpg"
+  },
+  {
+    "title": "Pontllyfni in Snow",
+    "artist": "Unknown Welsh Artist",
+    "category": "unidentified",
+    "confidence": "medium",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/pontllyfni-in-snow",
+    "image": "https://static.wixstatic.com/media/a53d5f_49cbf078d8c6461480f8cfea36134376~mv2.jpg/v1/fill/w_299,h_174,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/a53d5f_49cbf078d8c6461480f8cfea36134376~mv2.jpg",
+    "local_image": "product_images/073_Pontllyfni_in_Snow.jpg"
+  },
+  {
+    "title": "Welsh Black Bull",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/welsh-black-bull",
+    "image": "https://static.wixstatic.com/media/a53d5f_bac776ac27584dbea44046c9d8d2b536~mv2.jpg/v1/fill/w_299,h_195,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/a53d5f_bac776ac27584dbea44046c9d8d2b536~mv2.jpg",
+    "local_image": "product_images/074_Welsh_Black_Bull.jpg"
+  },
+  {
+    "title": "Ponies, Anglesey",
+    "artist": "Unknown Welsh Artist",
+    "category": "unidentified",
+    "confidence": "medium",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/ponies-anglesey",
+    "image": "https://static.wixstatic.com/media/a53d5f_a180d9ced3f94780898e76d9dc6071eb~mv2.jpg/v1/fill/w_299,h_238,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/a53d5f_a180d9ced3f94780898e76d9dc6071eb~mv2.jpg",
+    "local_image": "product_images/075_Ponies__Anglesey.jpg"
+  },
+  {
+    "title": "Horses at Lle Cul",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/horses-at-lle-cul",
+    "image": "https://static.wixstatic.com/media/a53d5f_c9f003eb13f74bb097b94f203977d8d0~mv2.jpg/v1/fill/w_291,h_299,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/a53d5f_c9f003eb13f74bb097b94f203977d8d0~mv2.jpg",
+    "local_image": "product_images/076_Horses_at_Lle_Cul.jpg"
+  },
+  {
+    "title": "Cutting Images",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/cutting-images",
+    "image": "https://static.wixstatic.com/media/a53d5f_b8a8e470e9ff48c7a9204e7ec32f4fed~mv2.jpg/v1/fill/w_299,h_283,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/a53d5f_b8a8e470e9ff48c7a9204e7ec32f4fed~mv2.jpg",
+    "local_image": "product_images/077_Cutting_Images.jpg"
+  },
+  {
+    "title": "Standing Shepherd",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/standing-shepherd",
+    "image": "https://static.wixstatic.com/media/a53d5f_b8a9e9e2d89a4cc4b8791dd6edc7ef97~mv2.jpg/v1/fill/w_217,h_299,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/a53d5f_b8a9e9e2d89a4cc4b8791dd6edc7ef97~mv2.jpg",
+    "local_image": "product_images/078_Standing_Shepherd.jpg"
+  },
+  {
+    "title": "The River Gwyrfai",
+    "artist": "Unknown Welsh Artist",
+    "category": "unidentified",
+    "confidence": "medium",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/the-river-gwyrfai",
+    "image": "https://static.wixstatic.com/media/a53d5f_0ca988c80349474a84980d79d65cca4c~mv2.jpg/v1/fill/w_147,h_63,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/a53d5f_0ca988c80349474a84980d79d65cca4c~mv2.jpg",
+    "local_image": "product_images/079_The_River_Gwyrfai.jpg"
+  },
+  {
+    "title": "Snowdon from Llyn Mymbr",
+    "artist": "Unknown Welsh Artist",
+    "category": "unidentified",
+    "confidence": "medium",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/snowdon-from-llyn-mymbr",
+    "image": "https://static.wixstatic.com/media/a53d5f_41ae22ad514e4940981fceba834160c9~mv2.jpg/v1/fill/w_147,h_56,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/a53d5f_41ae22ad514e4940981fceba834160c9~mv2.jpg",
+    "local_image": "product_images/080_Snowdon_from_Llyn_Mymbr.jpg"
+  },
+  {
+    "title": "Killjoy",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/killjoy",
+    "image": "https://static.wixstatic.com/media/a53d5f_4acb4ac7eba04a86a275850bc93ee80b~mv2.jpg/v1/fill/w_147,h_124,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/a53d5f_4acb4ac7eba04a86a275850bc93ee80b~mv2.jpg",
+    "local_image": "product_images/081_Killjoy.jpg"
+  },
+  {
+    "title": "Autumnal Landscape with Trees",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/autumnal-landscape-with-trees",
+    "image": "https://static.wixstatic.com/media/a53d5f_cfabc38d94584fefad61e4edea9491e5~mv2.jpg/v1/fill/w_147,h_123,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/a53d5f_cfabc38d94584fefad61e4edea9491e5~mv2.jpg",
+    "local_image": "product_images/082_Autumnal_Landscape_with_Trees.jpg"
+  },
+  {
+    "title": "The Race",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/the-race",
+    "image": "https://static.wixstatic.com/media/a53d5f_7377cf02f9d743088c8e08862e655c97~mv2.jpg/v1/fill/w_147,h_251,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/a53d5f_7377cf02f9d743088c8e08862e655c97~mv2.jpg",
+    "local_image": "product_images/083_The_Race.jpg"
+  },
+  {
+    "title": "Moelfre",
+    "artist": "Unknown Welsh Artist",
+    "category": "unidentified",
+    "confidence": "medium",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/moelfre",
+    "image": "https://static.wixstatic.com/media/a53d5f_4a2a107fbd2c4fca83f014043dc3d2b7~mv2.jpg/v1/fill/w_147,h_196,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/a53d5f_4a2a107fbd2c4fca83f014043dc3d2b7~mv2.jpg",
+    "local_image": "product_images/084_Moelfre.jpg"
+  },
+  {
+    "title": "Coracler",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/coracler",
+    "image": "https://static.wixstatic.com/media/a53d5f_c92653e566ca4cde9f734e291e31f29c~mv2.jpg/v1/fill/w_147,h_104,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/a53d5f_c92653e566ca4cde9f734e291e31f29c~mv2.jpg",
+    "local_image": "product_images/085_Coracler.jpg"
+  },
+  {
+    "title": "Cockle Pickers",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/cockle-pickers",
+    "image": "https://static.wixstatic.com/media/a53d5f_f5a9f07f822e4751af12ed969245d4af~mv2.jpg/v1/fill/w_147,h_104,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/a53d5f_f5a9f07f822e4751af12ed969245d4af~mv2.jpg",
+    "local_image": "product_images/086_Cockle_Pickers.jpg"
+  },
+  {
+    "title": "The Village and I and Marc Chagall",
+    "artist": "Unknown Artist (referencing Marc Chagall)",
+    "category": "unidentified",
+    "confidence": "medium",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/the-village-and-i-and-marc-chagall",
+    "image": "https://static.wixstatic.com/media/a53d5f_46143fdb48574ea5833f4a50e666d1af~mv2.jpg/v1/fill/w_147,h_146,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/a53d5f_46143fdb48574ea5833f4a50e666d1af~mv2.jpg",
+    "local_image": "product_images/087_The_Village_and_I_and_Marc_Chagall.jpg"
+  },
+  {
+    "title": "Windswept Landscape with Cottage",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/windswept-landscape-with-cottage",
+    "image": "https://static.wixstatic.com/media/a53d5f_4d000b72c9154018a2fa36b99990ec29~mv2.jpg/v1/fill/w_147,h_209,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/a53d5f_4d000b72c9154018a2fa36b99990ec29~mv2.jpg",
+    "local_image": "product_images/088_Windswept_Landscape_with_Cottage.jpg"
+  },
+  {
+    "title": "Cow and Farm Hopper",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/cow-and-farm-hopper",
+    "image": "https://static.wixstatic.com/media/a53d5f_62d487d2831d48c2b5ac22c977ae4bdf~mv2.jpg/v1/fill/w_147,h_106,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/a53d5f_62d487d2831d48c2b5ac22c977ae4bdf~mv2.jpg",
+    "local_image": "product_images/089_Cow_and_Farm_Hopper.jpg"
+  },
+  {
+    "title": "The Blue Sunflower",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/the-blue-sunflower",
+    "image": "https://static.wixstatic.com/media/a53d5f_385299b73590409b9f8e461a9446174f~mv2.jpg/v1/fill/w_147,h_147,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/a53d5f_385299b73590409b9f8e461a9446174f~mv2.jpg",
+    "local_image": "product_images/090_The_Blue_Sunflower.jpg"
+  },
+  {
+    "title": "Early Still-Life, Wine and Flowers",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/early-still-life-wine-and-flowers",
+    "image": "https://static.wixstatic.com/media/a53d5f_314e088a272f40cea0c36bf52d22342e~mv2.jpg/v1/fill/w_147,h_108,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/a53d5f_314e088a272f40cea0c36bf52d22342e~mv2.jpg",
+    "local_image": "product_images/091_Early_Still-Life__Wine_and_Flowers.jpg"
+  },
+  {
+    "title": "Flowers, Lupins",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/flowers-lupins",
+    "image": "https://static.wixstatic.com/media/a53d5f_86b6cb72f6c54385bb97155e7704b1f6~mv2.jpg/v1/fill/w_147,h_177,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/a53d5f_86b6cb72f6c54385bb97155e7704b1f6~mv2.jpg",
+    "local_image": "product_images/092_Flowers__Lupins.jpg"
+  },
+  {
+    "title": "Autumnal Landscape",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/autumnal-landscape",
+    "image": "https://static.wixstatic.com/media/a53d5f_a845b4147ed943688d12ebff67b4e2f2~mv2.jpg/v1/fill/w_147,h_125,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/a53d5f_a845b4147ed943688d12ebff67b4e2f2~mv2.jpg",
+    "local_image": "product_images/093_Autumnal_Landscape.jpg"
+  },
+  {
+    "title": "Penarth Pier",
+    "artist": "Unknown Welsh Artist",
+    "category": "unidentified",
+    "confidence": "medium",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/penarth-pier",
+    "image": "https://static.wixstatic.com/media/a53d5f_0d0a55306db6429e91c83a2f1610aadd~mv2.jpg/v1/fill/w_147,h_111,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/a53d5f_0d0a55306db6429e91c83a2f1610aadd~mv2.jpg",
+    "local_image": "product_images/094_Penarth_Pier.jpg"
+  },
+  {
+    "title": "Playing Recorders",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/playing-recorders",
+    "image": "https://static.wixstatic.com/media/a53d5f_8c4dffd3739445c29c26c4b61718f9c1~mv2.jpg/v1/fill/w_147,h_226,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/a53d5f_8c4dffd3739445c29c26c4b61718f9c1~mv2.jpg",
+    "local_image": "product_images/095_Playing_Recorders.jpg"
+  },
+  {
+    "title": "Earth Vs.Venus",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/earth-vs-venus",
+    "image": "https://static.wixstatic.com/media/a53d5f_e68136b0aa724b47a25f146965194a27~mv2.jpg/v1/fill/w_147,h_319,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/a53d5f_e68136b0aa724b47a25f146965194a27~mv2.jpg",
+    "local_image": "product_images/096_Earth_Vs.Venus.jpg"
+  },
+  {
+    "title": "News Please",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/news-please",
+    "image": "https://static.wixstatic.com/media/a53d5f_ced7de3caf374a309b474f008f9166e1~mv2.jpg/v1/fill/w_262,h_299,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/a53d5f_ced7de3caf374a309b474f008f9166e1~mv2.jpg",
+    "local_image": "product_images/097_News_Please.jpg"
+  },
+  {
+    "title": "Head of Poet Dylan Thomas",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/head-of-poet-dylan-thomas",
+    "image": "https://static.wixstatic.com/media/a53d5f_739a9e48fb454d1e900095d3685a1e1a~mv2.jpg/v1/fill/w_226,h_299,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/a53d5f_739a9e48fb454d1e900095d3685a1e1a~mv2.jpg",
+    "local_image": "product_images/098_Head_of_Poet_Dylan_Thomas.jpg"
+  },
+  {
+    "title": "Locks",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/locks",
+    "image": "https://static.wixstatic.com/media/a53d5f_c94f309efc624b5badea871af8db7386~mv2.jpg/v1/fill/w_256,h_299,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/a53d5f_c94f309efc624b5badea871af8db7386~mv2.jpg",
+    "local_image": "product_images/099_Locks.jpg"
+  },
+  {
+    "title": "Children on the Beach",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/children-on-the-beach",
+    "image": "https://static.wixstatic.com/media/a53d5f_973cff285e66494782fb8790eee800c7~mv2.jpg/v1/fill/w_299,h_177,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/a53d5f_973cff285e66494782fb8790eee800c7~mv2.jpg",
+    "local_image": "product_images/100_Children_on_the_Beach.jpg"
+  },
+  {
+    "title": "Phyllis at Creswell Quay, Pembs",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/phyllis-at-creswell-quay-pembs",
+    "image": "https://static.wixstatic.com/media/a53d5f_7a5a0d24269c4864849fb6169f47b5e7~mv2.jpg/v1/fill/w_299,h_238,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/a53d5f_7a5a0d24269c4864849fb6169f47b5e7~mv2.jpg",
+    "local_image": "product_images/101_Phyllis_at_Creswell_Quay__Pembs.jpg"
+  },
+  {
+    "title": "Man Mowing",
+    "artist": "Unknown Artist",
+    "category": "unidentified",
+    "confidence": "manual_review",
+    "url": "https://www.palehallfineartandantiques.co.uk/product-page/man-mowing",
+    "image": "https://static.wixstatic.com/media/a53d5f_97ad57e022544cafaf101a3d56d7dc55~mv2.jpg/v1/fill/w_235,h_299,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/a53d5f_97ad57e022544cafaf101a3d56d7dc55~mv2.jpg",
+    "local_image": "product_images/102_Man_Mowing.jpg"
+  }
+]

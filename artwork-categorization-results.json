@@ -1,0 +1,4178 @@
+[
+  {
+    "filePath": "public/product_images/102_Man_Mowing.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "102_Man_Mowing.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/101_Phyllis_at_Creswell_Quay__Pembs.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "101_Phyllis_at_Creswell_Quay__Pembs.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/100_Children_on_the_Beach.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "100_Children_on_the_Beach.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/099_Locks.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "099_Locks.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/098_Head_of_Poet_Dylan_Thomas.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "098_Head_of_Poet_Dylan_Thomas.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/097_News_Please.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "097_News_Please.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/096_Earth_Vs.Venus.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "096_Earth_Vs.Venus.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/095_Playing_Recorders.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "095_Playing_Recorders.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/094_Penarth_Pier.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "094_Penarth_Pier.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/093_Autumnal_Landscape.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "093_Autumnal_Landscape.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/092_Flowers__Lupins.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "092_Flowers__Lupins.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/091_Early_Still-Life__Wine_and_Flowers.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "091_Early_Still-Life__Wine_and_Flowers.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/090_The_Blue_Sunflower.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "090_The_Blue_Sunflower.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/089_Cow_and_Farm_Hopper.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "089_Cow_and_Farm_Hopper.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/088_Windswept_Landscape_with_Cottage.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "088_Windswept_Landscape_with_Cottage.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/087_The_Village_and_I_and_Marc_Chagall.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "087_The_Village_and_I_and_Marc_Chagall.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/086_Cockle_Pickers.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "086_Cockle_Pickers.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/085_Coracler.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "085_Coracler.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/084_Moelfre.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "084_Moelfre.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/083_The_Race.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "083_The_Race.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/082_Autumnal_Landscape_with_Trees.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "082_Autumnal_Landscape_with_Trees.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/081_Killjoy.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "081_Killjoy.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/080_Snowdon_from_Llyn_Mymbr.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "080_Snowdon_from_Llyn_Mymbr.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/079_The_River_Gwyrfai.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "079_The_River_Gwyrfai.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/078_Standing_Shepherd.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "078_Standing_Shepherd.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/077_Cutting_Images.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "077_Cutting_Images.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/076_Horses_at_Lle_Cul.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "076_Horses_at_Lle_Cul.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/075_Ponies__Anglesey.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "075_Ponies__Anglesey.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/074_Welsh_Black_Bull.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "074_Welsh_Black_Bull.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/073_Pontllyfni_in_Snow.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "073_Pontllyfni_in_Snow.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/072_Farmer_in_Overcoat_with_Walking_Stick.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "072_Farmer_in_Overcoat_with_Walking_Stick.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/071_Farmer_with_Walking_Stick.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "071_Farmer_with_Walking_Stick.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/070_Road_to_the_Mine__Blaenau_Ffestiniog.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "070_Road_to_the_Mine__Blaenau_Ffestiniog.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/069_Anglesey_in_Winter.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "069_Anglesey_in_Winter.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/068_Llyn-y-Fan_Fach.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "068_Llyn-y-Fan_Fach.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/067_Fishing_Boats__Marina.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "067_Fishing_Boats__Marina.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/066_Misty_Flooded_Moorland.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "066_Misty_Flooded_Moorland.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/065_Llanfachraeth.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "065_Llanfachraeth.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/064_Still_Life_with_Olives.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "064_Still_Life_with_Olives.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/063_Figure_at_Doorway_with_Garden.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "063_Figure_at_Doorway_with_Garden.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/062_Hon.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "062_Hon.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/061_Landscape_Series_No.37.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "061_Landscape_Series_No.37.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/060_Colourful_Study_of_Figure_on_Mule.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "060_Colourful_Study_of_Figure_on_Mule.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/059_Group_of_Standing_Farmers.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "059_Group_of_Standing_Farmers.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/058_Porth_Uchaf.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "058_Porth_Uchaf.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/057_Buchod_Dafydd.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "057_Buchod_Dafydd.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/056_The_Rising_Moon.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "056_The_Rising_Moon.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/055_Bathers.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "055_Bathers.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/054_Coastal_view_at_Dusk__Saundersfoot__Pembrokeshire.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "054_Coastal_view_at_Dusk__Saundersfoot__Pembrokeshire.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/053_All_Flash.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "053_All_Flash.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/052_Eric__Gwern_Borter__1924.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "052_Eric__Gwern_Borter__1924.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/051_Anyworld.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "051_Anyworld.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/050_Feeding_the_Birds.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "050_Feeding_the_Birds.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/049_Moon_Dog.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "049_Moon_Dog.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/048_Gower_Beach.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "048_Gower_Beach.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/047_Sloop_Inn__St._Ives.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "047_Sloop_Inn__St._Ives.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/046_Portrait_of_Mair_Stuart.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "046_Portrait_of_Mair_Stuart.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/045_Victoria___Albert_Museum.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "045_Victoria___Albert_Museum.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/044_The_Brangwyn_Portfolio_of_lithographs__with_additional_etchings.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "044_The_Brangwyn_Portfolio_of_lithographs__with_additional_etchings.jpg",
+    "category": "Print",
+    "confidence": 0.8,
+    "analysis": "Identified as print based on filename keywords"
+  },
+  {
+    "filePath": "public/product_images/043_The_Brangwyn_Portfolio_of_lithographs.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "043_The_Brangwyn_Portfolio_of_lithographs.jpg",
+    "category": "Print",
+    "confidence": 0.8,
+    "analysis": "Identified as print based on filename keywords"
+  },
+  {
+    "filePath": "public/product_images/042_Three_Blind_Women___The_Drunk.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "042_Three_Blind_Women___The_Drunk.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/041_Australian_Crucifixion.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "041_Australian_Crucifixion.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/040_Tyger_Tyger.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "040_Tyger_Tyger.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/039_Tyger_Tyger.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "039_Tyger_Tyger.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/038_London.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "038_London.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/037_Everybody_Wants_to_be_Somebody.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "037_Everybody_Wants_to_be_Somebody.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/036_Free_at_last.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "036_Free_at_last.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/035_Profile_in_Courage.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "035_Profile_in_Courage.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/034_Nobody_Can_Stop_an_Idea_Whose_Time_Has_Come.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "034_Nobody_Can_Stop_an_Idea_Whose_Time_Has_Come.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/033_Robert_Owen.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "033_Robert_Owen.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/032_Under_the_Yew_Tree.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "032_Under_the_Yew_Tree.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/031_Faith.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "031_Faith.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/030_How_many_ages.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "030_How_many_ages.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/029_St_James.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "029_St_James.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/028_Verso.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "028_Verso.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/027_The_Steps.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "027_The_Steps.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/026_Viaggio_Verso_II_Nord.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "026_Viaggio_Verso_II_Nord.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/025_Viaggio_Verso_il_Nord_1972.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "025_Viaggio_Verso_il_Nord_1972.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/024_Cockatoo.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "024_Cockatoo.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/023_Cottage_Landscape.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "023_Cottage_Landscape.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/022_Ice_skaters_on_a_frozen_river.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "022_Ice_skaters_on_a_frozen_river.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/021_The_Hedgecutter.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "021_The_Hedgecutter.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/020_The_Fuel_Gatherers.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "020_The_Fuel_Gatherers.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/019_Abstract_still_life.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "019_Abstract_still_life.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/018_Gundog_pair_stalking_grouse_in_cover.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "018_Gundog_pair_stalking_grouse_in_cover.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/017_Looking_towards_the_harbour.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "017_Looking_towards_the_harbour.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/016_Terriers_at_a_rabbit_hole.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "016_Terriers_at_a_rabbit_hole.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/015_Oude_Scheld_-_Texel_Island.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "015_Oude_Scheld_-_Texel_Island.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/014_Children_on_a_street_corner.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "014_Children_on_a_street_corner.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/013_French_Street_Scene.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "013_French_Street_Scene.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/012_Romeo_and_Juliet.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "012_Romeo_and_Juliet.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/011_Frieize_Of_Wallflowers__1.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "011_Frieize_Of_Wallflowers__1.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/010_Passing_Snowstorm_Over_The_Dee_Valley.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "010_Passing_Snowstorm_Over_The_Dee_Valley.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/009_Frieize_of_Wallflowers__2.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "009_Frieize_of_Wallflowers__2.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/008_Concourse.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "008_Concourse.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/007_Hollyhocks.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "007_Hollyhocks.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/006_Jean_Simon_Labret.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "006_Jean_Simon_Labret.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/005_Temptation_of_Eros.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "005_Temptation_of_Eros.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/004_Painting_School_of_Canaletto.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "004_Painting_School_of_Canaletto.jpg",
+    "category": "Painting",
+    "confidence": 0.8,
+    "analysis": "Identified as painting based on filename keywords"
+  },
+  {
+    "filePath": "public/product_images/003_River_Dee.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "003_River_Dee.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/product_images/002_The_Painting_School_of_Canaletto.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "002_The_Painting_School_of_Canaletto.jpg",
+    "category": "Painting",
+    "confidence": 0.8,
+    "analysis": "Identified as painting based on filename keywords"
+  },
+  {
+    "filePath": "public/product_images/001_Alfred_Bachman_[1863___1956].jpg",
+    "artist": "Unknown Artist",
+    "fileName": "001_Alfred_Bachman_[1863___1956].jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/Unblurred Images/Windswept_Landscape_with_Cottage.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "Windswept_Landscape_with_Cottage.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/Unblurred Images/Welsh_Black_Bull.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "Welsh_Black_Bull.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/Unblurred Images/The_Village_and_I_and_Marc_Chagall.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "The_Village_and_I_and_Marc_Chagall.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/Unblurred Images/The_River_Gwyrfai.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "The_River_Gwyrfai.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/Unblurred Images/The_Race.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "The_Race.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/Unblurred Images/The_Blue_Sunflower.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "The_Blue_Sunflower.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/Unblurred Images/Standing_Shepherd.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "Standing_Shepherd.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/Unblurred Images/Snowdon_from_Llyn_Mymbr.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "Snowdon_from_Llyn_Mymbr.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/Unblurred Images/Road_to_the_Mine_Blaenau_Ffestiniog.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "Road_to_the_Mine_Blaenau_Ffestiniog.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/Unblurred Images/Pontllyfni_in_Snow.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "Pontllyfni_in_Snow.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/Unblurred Images/Ponies_Anglesey.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "Ponies_Anglesey.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/Unblurred Images/Playing_Recorders.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "Playing_Recorders.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/Unblurred Images/Phyllis_at_Creswell_Quay_Pembs.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "Phyllis_at_Creswell_Quay_Pembs.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/Unblurred Images/Penarth_Pier.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "Penarth_Pier.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/Unblurred Images/News_Please.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "News_Please.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/Unblurred Images/Moelfre.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "Moelfre.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/Unblurred Images/Misty_Flooded_Moorland.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "Misty_Flooded_Moorland.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/Unblurred Images/Man_Mowing.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "Man_Mowing.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/Unblurred Images/Llyn-y-Fan_Fach.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "Llyn-y-Fan_Fach.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/Unblurred Images/Llanfachraeth.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "Llanfachraeth.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/Unblurred Images/Landscape_Series_No.37.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "Landscape_Series_No.37.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/Unblurred Images/Killjoy.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "Killjoy.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/Unblurred Images/Horses_at_Lle_Cul.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "Horses_at_Lle_Cul.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/Unblurred Images/Hon.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "Hon.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/Unblurred Images/Flowers_Lupins.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "Flowers_Lupins.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/Unblurred Images/Fishing_Boats_Marina.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "Fishing_Boats_Marina.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/Unblurred Images/Figure_at_Doorway_with_Garden.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "Figure_at_Doorway_with_Garden.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/Unblurred Images/Farmer_with_Walking_Stick.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "Farmer_with_Walking_Stick.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/Unblurred Images/Farmer_in_Overcoat_with_Walking_Stick.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "Farmer_in_Overcoat_with_Walking_Stick.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/Unblurred Images/Earth_Vs.Venus.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "Earth_Vs.Venus.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/Unblurred Images/Early_Still-Life_Wine_and_Flowers.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "Early_Still-Life_Wine_and_Flowers.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/Unblurred Images/Cow_and_Farm_Hopper.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "Cow_and_Farm_Hopper.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/Unblurred Images/Coracler.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "Coracler.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/Unblurred Images/Colourful_Study_of_Figure_on_Mule.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "Colourful_Study_of_Figure_on_Mule.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/Unblurred Images/Cockle_Pickers.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "Cockle_Pickers.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/Unblurred Images/Autumnal_Landscape_with_Trees.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "Autumnal_Landscape_with_Trees.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/Unblurred Images/Autumnal_Landscape.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "Autumnal_Landscape.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/Unblurred Images/Anglesey_in_Winter.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "Anglesey_in_Winter.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_welsh_artist/products/The_River_Gwyrfai.jpg",
+    "artist": "unknown welsh artist",
+    "fileName": "The_River_Gwyrfai.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_welsh_artist/products/Snowdon_from_Llyn_Mymbr.jpg",
+    "artist": "unknown welsh artist",
+    "fileName": "Snowdon_from_Llyn_Mymbr.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_welsh_artist/products/Road_to_the_Mine__Blaenau_Ffestiniog.jpg",
+    "artist": "unknown welsh artist",
+    "fileName": "Road_to_the_Mine__Blaenau_Ffestiniog.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_welsh_artist/products/Pontllyfni_in_Snow.jpg",
+    "artist": "unknown welsh artist",
+    "fileName": "Pontllyfni_in_Snow.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_welsh_artist/products/Ponies__Anglesey.jpg",
+    "artist": "unknown welsh artist",
+    "fileName": "Ponies__Anglesey.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_welsh_artist/products/Penarth_Pier.jpg",
+    "artist": "unknown welsh artist",
+    "fileName": "Penarth_Pier.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_welsh_artist/products/Moelfre.jpg",
+    "artist": "unknown welsh artist",
+    "fileName": "Moelfre.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_welsh_artist/products/Llyn-y-Fan_Fach.jpg",
+    "artist": "unknown welsh artist",
+    "fileName": "Llyn-y-Fan_Fach.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_welsh_artist/products/Llanfachraeth.jpg",
+    "artist": "unknown welsh artist",
+    "fileName": "Llanfachraeth.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_welsh_artist/products/Gower_Beach.jpg",
+    "artist": "unknown welsh artist",
+    "fileName": "Gower_Beach.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_welsh_artist/products/Coastal_view_at_Dusk__Saundersfoot__Pembrokeshire.jpg",
+    "artist": "unknown welsh artist",
+    "fileName": "Coastal_view_at_Dusk__Saundersfoot__Pembrokeshire.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_welsh_artist/products/Anglesey_in_Winter.jpg",
+    "artist": "unknown welsh artist",
+    "fileName": "Anglesey_in_Winter.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist__referencing_marc_chagall_/products/The_Village_and_I_and_Marc_Chagall.jpg",
+    "artist": "unknown artist  referencing marc chagall ",
+    "fileName": "The_Village_and_I_and_Marc_Chagall.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/steve_tootell/products/Steve_s_Charities_Copy.jpg",
+    "artist": "steve tootell",
+    "fileName": "Steve_s_Charities_Copy.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/steve_tootell/products/Steve_WORKING.jpg",
+    "artist": "steve tootell",
+    "fileName": "Steve_WORKING.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/steve_tootell/products/Steve_WORK.jpg",
+    "artist": "steve tootell",
+    "fileName": "Steve_WORK.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/steve_tootell/products/Steve_Puts_It_Out.jpg",
+    "artist": "steve tootell",
+    "fileName": "Steve_Puts_It_Out.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/steve_tootell/products/Steve_FIRE.jpg",
+    "artist": "steve tootell",
+    "fileName": "Steve_FIRE.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/steve_tootell/products/Steve_AT_WORK.jpg",
+    "artist": "steve tootell",
+    "fileName": "Steve_AT_WORK.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/steve_tootell/products/ST_9  Vase_image_1_product.png",
+    "artist": "steve tootell",
+    "fileName": "ST_9  Vase_image_1_product.png",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/steve_tootell/products/ST_8_JAR.jpg",
+    "artist": "steve tootell",
+    "fileName": "ST_8_JAR.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/steve_tootell/products/ST_8 JAR_image_1_product.png",
+    "artist": "steve tootell",
+    "fileName": "ST_8 JAR_image_1_product.png",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/steve_tootell/products/ST_7_Sod_Sil_Bottle.jpg",
+    "artist": "steve tootell",
+    "fileName": "ST_7_Sod_Sil_Bottle.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/steve_tootell/products/ST_7 sod sil bottle_image_1_product.png",
+    "artist": "steve tootell",
+    "fileName": "ST_7 sod sil bottle_image_1_product.png",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/steve_tootell/products/ST_3_Shell_Feet_Shino_Vase.jpg",
+    "artist": "steve tootell",
+    "fileName": "ST_3_Shell_Feet_Shino_Vase.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/steve_tootell/products/ST_33 tootstea33.jpg",
+    "artist": "steve tootell",
+    "fileName": "ST_33 tootstea33.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/steve_tootell/products/ST_3 shell feet shino vase_image_1_product.png",
+    "artist": "steve tootell",
+    "fileName": "ST_3 shell feet shino vase_image_1_product.png",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/steve_tootell/products/ST_2_Jar.jpg",
+    "artist": "steve tootell",
+    "fileName": "ST_2_Jar.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/steve_tootell/products/ST_2 Jar_image_1_product.png",
+    "artist": "steve tootell",
+    "fileName": "ST_2 Jar_image_1_product.png",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/steve_tootell/products/ST_1_Chalice.jpg",
+    "artist": "steve tootell",
+    "fileName": "ST_1_Chalice.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/steve_tootell/products/ST_16_Steve_Pitcher_ST16.jpg",
+    "artist": "steve tootell",
+    "fileName": "ST_16_Steve_Pitcher_ST16.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/steve_tootell/products/ST_16 Steve Pitcher ST16_image_1_product.png",
+    "artist": "steve tootell",
+    "fileName": "ST_16 Steve Pitcher ST16_image_1_product.png",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/steve_tootell/products/ST_15_Tall_Japanese_Text.jpg",
+    "artist": "steve tootell",
+    "fileName": "ST_15_Tall_Japanese_Text.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/steve_tootell/products/ST_15 tall jpanese text_image_1_product.png",
+    "artist": "steve tootell",
+    "fileName": "ST_15 tall jpanese text_image_1_product.png",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/steve_tootell/products/ST_14_Tall_Blue_Jar.jpg",
+    "artist": "steve tootell",
+    "fileName": "ST_14_Tall_Blue_Jar.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/steve_tootell/products/ST_14 tall blue jar_image_1_product.png",
+    "artist": "steve tootell",
+    "fileName": "ST_14 tall blue jar_image_1_product.png",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/steve_tootell/products/ST_13_Tall_Blue_Brown_Jar.jpg",
+    "artist": "steve tootell",
+    "fileName": "ST_13_Tall_Blue_Brown_Jar.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/steve_tootell/products/ST_13 tall blue brown jar_image_1_product.png",
+    "artist": "steve tootell",
+    "fileName": "ST_13 tall blue brown jar_image_1_product.png",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/steve_tootell/products/ST_12_-_Bottle.jpg",
+    "artist": "steve tootell",
+    "fileName": "ST_12_-_Bottle.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/steve_tootell/products/ST_12 - Bottle_image_1_product.png",
+    "artist": "steve tootell",
+    "fileName": "ST_12 - Bottle_image_1_product.png",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/steve_tootell/products/ST_11_Steve_Jar_ST_11.jpg",
+    "artist": "steve tootell",
+    "fileName": "ST_11_Steve_Jar_ST_11.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/steve_tootell/products/ST_11 Steve Jar ST 11_image_1_product.png",
+    "artist": "steve tootell",
+    "fileName": "ST_11 Steve Jar ST 11_image_1_product.png",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/steve_tootell/products/ST_1 Chalice_image_1_product.png",
+    "artist": "steve tootell",
+    "fileName": "ST_1 Chalice_image_1_product.png",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/steve_tootell/products/ST6a_product.png",
+    "artist": "steve tootell",
+    "fileName": "ST6a_product.png",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/steve_tootell/products/ST6_product.png",
+    "artist": "steve tootell",
+    "fileName": "ST6_product.png",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/steve_tootell/products/ST5_product.png",
+    "artist": "steve tootell",
+    "fileName": "ST5_product.png",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/steve_tootell/products/ST4_product.png",
+    "artist": "steve tootell",
+    "fileName": "ST4_product.png",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/steve_tootell/products/Portrait.jpg",
+    "artist": "steve tootell",
+    "fileName": "Portrait.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/steve_tootell/products/Apple_Tree_Studios.jpg",
+    "artist": "steve tootell",
+    "fileName": "Apple_Tree_Studios.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/steve_tootell/products/Anagama_Mouth.jpg",
+    "artist": "steve tootell",
+    "fileName": "Anagama_Mouth.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/Windswept_Landscape_with_Cottage.jpg",
+    "artist": "unknown artist",
+    "fileName": "Windswept_Landscape_with_Cottage.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/Welsh_Black_Bull.jpg",
+    "artist": "unknown artist",
+    "fileName": "Welsh_Black_Bull.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/Victoria___Albert_Museum.jpg",
+    "artist": "unknown artist",
+    "fileName": "Victoria___Albert_Museum.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/Viaggio_Verso_il_Nord_1972.jpg",
+    "artist": "unknown artist",
+    "fileName": "Viaggio_Verso_il_Nord_1972.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/Viaggio_Verso_II_Nord.jpg",
+    "artist": "unknown artist",
+    "fileName": "Viaggio_Verso_II_Nord.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/Verso.jpg",
+    "artist": "unknown artist",
+    "fileName": "Verso.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/Under_the_Yew_Tree.jpg",
+    "artist": "unknown artist",
+    "fileName": "Under_the_Yew_Tree.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/Tyger_Tyger.jpg",
+    "artist": "unknown artist",
+    "fileName": "Tyger_Tyger.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/Three_Blind_Women___The_Drunk.jpg",
+    "artist": "unknown artist",
+    "fileName": "Three_Blind_Women___The_Drunk.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/The_Steps.jpg",
+    "artist": "unknown artist",
+    "fileName": "The_Steps.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/The_Rising_Moon.jpg",
+    "artist": "unknown artist",
+    "fileName": "The_Rising_Moon.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/The_Race.jpg",
+    "artist": "unknown artist",
+    "fileName": "The_Race.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/The_Hedgecutter.jpg",
+    "artist": "unknown artist",
+    "fileName": "The_Hedgecutter.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/The_Fuel_Gatherers.jpg",
+    "artist": "unknown artist",
+    "fileName": "The_Fuel_Gatherers.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/The_Blue_Sunflower.jpg",
+    "artist": "unknown artist",
+    "fileName": "The_Blue_Sunflower.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/Terriers_at_a_rabbit_hole.jpg",
+    "artist": "unknown artist",
+    "fileName": "Terriers_at_a_rabbit_hole.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/Still_Life_with_Olives.jpg",
+    "artist": "unknown artist",
+    "fileName": "Still_Life_with_Olives.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/Standing_Shepherd.jpg",
+    "artist": "unknown artist",
+    "fileName": "Standing_Shepherd.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/St_James.jpg",
+    "artist": "unknown artist",
+    "fileName": "St_James.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/Sloop_Inn__St._Ives.jpg",
+    "artist": "unknown artist",
+    "fileName": "Sloop_Inn__St._Ives.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/Simon_Labret.jpg",
+    "artist": "unknown artist",
+    "fileName": "Simon_Labret.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/Romeo_and_Juliet.jpg",
+    "artist": "unknown artist",
+    "fileName": "Romeo_and_Juliet.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/Profile_in_Courage.jpg",
+    "artist": "unknown artist",
+    "fileName": "Profile_in_Courage.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/Porth_Uchaf.jpg",
+    "artist": "unknown artist",
+    "fileName": "Porth_Uchaf.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/Poet_Dylan_Thomas.jpg",
+    "artist": "unknown artist",
+    "fileName": "Poet_Dylan_Thomas.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/Playing_Recorders.jpg",
+    "artist": "unknown artist",
+    "fileName": "Playing_Recorders.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/Phyllis_at_Creswell_Quay__Pembs.jpg",
+    "artist": "unknown artist",
+    "fileName": "Phyllis_at_Creswell_Quay__Pembs.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/Passing_Snowstorm_Over_The_Dee_Valley.jpg",
+    "artist": "unknown artist",
+    "fileName": "Passing_Snowstorm_Over_The_Dee_Valley.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/Oude_Scheld_-_Texel_Island.jpg",
+    "artist": "unknown artist",
+    "fileName": "Oude_Scheld_-_Texel_Island.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/Nobody_Can_Stop_an_Idea_Whose_Time_Has_Come_.jpg",
+    "artist": "unknown artist",
+    "fileName": "Nobody_Can_Stop_an_Idea_Whose_Time_Has_Come_.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/News_Please.jpg",
+    "artist": "unknown artist",
+    "fileName": "News_Please.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/Moon_Dog.jpg",
+    "artist": "unknown artist",
+    "fileName": "Moon_Dog.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/Misty_Flooded_Moorland.jpg",
+    "artist": "unknown artist",
+    "fileName": "Misty_Flooded_Moorland.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/Man_Mowing.jpg",
+    "artist": "unknown artist",
+    "fileName": "Man_Mowing.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/Mair_Stuart.jpg",
+    "artist": "unknown artist",
+    "fileName": "Mair_Stuart.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/Looking_towards_the_harbour.jpg",
+    "artist": "unknown artist",
+    "fileName": "Looking_towards_the_harbour.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/London.jpg",
+    "artist": "unknown artist",
+    "fileName": "London.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/Locks.jpg",
+    "artist": "unknown artist",
+    "fileName": "Locks.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/Landscape_Series_No.37.jpg",
+    "artist": "unknown artist",
+    "fileName": "Landscape_Series_No.37.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/Killjoy.jpg",
+    "artist": "unknown artist",
+    "fileName": "Killjoy.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/Ice_skaters_on_a_frozen_river.jpg",
+    "artist": "unknown artist",
+    "fileName": "Ice_skaters_on_a_frozen_river.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/How_many_ages.jpg",
+    "artist": "unknown artist",
+    "fileName": "How_many_ages.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/Horses_at_Lle_Cul.jpg",
+    "artist": "unknown artist",
+    "fileName": "Horses_at_Lle_Cul.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/Hon.jpg",
+    "artist": "unknown artist",
+    "fileName": "Hon.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/Hollyhocks.jpg",
+    "artist": "unknown artist",
+    "fileName": "Hollyhocks.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/Gundog_pair_stalking_grouse_in_cover.jpg",
+    "artist": "unknown artist",
+    "fileName": "Gundog_pair_stalking_grouse_in_cover.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/Group_of_Standing_Farmers.jpg",
+    "artist": "unknown artist",
+    "fileName": "Group_of_Standing_Farmers.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/Frieize_of_Wallflowers__2.jpg",
+    "artist": "unknown artist",
+    "fileName": "Frieize_of_Wallflowers__2.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/Frieize_Of_Wallflowers__1.jpg",
+    "artist": "unknown artist",
+    "fileName": "Frieize_Of_Wallflowers__1.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/French_Street_Scene.jpg",
+    "artist": "unknown artist",
+    "fileName": "French_Street_Scene.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/Free_at_last.jpg",
+    "artist": "unknown artist",
+    "fileName": "Free_at_last.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/Flowers__Lupins.jpg",
+    "artist": "unknown artist",
+    "fileName": "Flowers__Lupins.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/Fishing_Boats__Marina.jpg",
+    "artist": "unknown artist",
+    "fileName": "Fishing_Boats__Marina.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/Figure_at_Doorway_with_Garden.jpg",
+    "artist": "unknown artist",
+    "fileName": "Figure_at_Doorway_with_Garden.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/Feeding_the_Birds.jpg",
+    "artist": "unknown artist",
+    "fileName": "Feeding_the_Birds.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/Farmer_with_Walking_Stick.jpg",
+    "artist": "unknown artist",
+    "fileName": "Farmer_with_Walking_Stick.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/Farmer_in_Overcoat_with_Walking_Stick.jpg",
+    "artist": "unknown artist",
+    "fileName": "Farmer_in_Overcoat_with_Walking_Stick.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/Faith.jpg",
+    "artist": "unknown artist",
+    "fileName": "Faith.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/Everybody_Wants_to_be_Somebody.jpg",
+    "artist": "unknown artist",
+    "fileName": "Everybody_Wants_to_be_Somebody.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/Earth_Vs.Venus.jpg",
+    "artist": "unknown artist",
+    "fileName": "Earth_Vs.Venus.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/Early_Still-Life__Wine_and_Flowers.jpg",
+    "artist": "unknown artist",
+    "fileName": "Early_Still-Life__Wine_and_Flowers.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/Cutting_Images.jpg",
+    "artist": "unknown artist",
+    "fileName": "Cutting_Images.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/Cow_and_Farm_Hopper.jpg",
+    "artist": "unknown artist",
+    "fileName": "Cow_and_Farm_Hopper.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/Cottage_Landscape.jpg",
+    "artist": "unknown artist",
+    "fileName": "Cottage_Landscape.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/Coracler.jpg",
+    "artist": "unknown artist",
+    "fileName": "Coracler.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/Concourse.jpg",
+    "artist": "unknown artist",
+    "fileName": "Concourse.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/Colourful_Study_of_Figure_on_Mule.jpg",
+    "artist": "unknown artist",
+    "fileName": "Colourful_Study_of_Figure_on_Mule.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/Cockle_Pickers.jpg",
+    "artist": "unknown artist",
+    "fileName": "Cockle_Pickers.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/Cockatoo.jpg",
+    "artist": "unknown artist",
+    "fileName": "Cockatoo.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/Children_on_the_Beach.jpg",
+    "artist": "unknown artist",
+    "fileName": "Children_on_the_Beach.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/Children_on_a_street_corner.jpg",
+    "artist": "unknown artist",
+    "fileName": "Children_on_a_street_corner.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/Buchod_Dafydd.jpg",
+    "artist": "unknown artist",
+    "fileName": "Buchod_Dafydd.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/Bathers.jpg",
+    "artist": "unknown artist",
+    "fileName": "Bathers.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/Bachman__1863___1956_.jpg",
+    "artist": "unknown artist",
+    "fileName": "Bachman__1863___1956_.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/Autumnal_Landscape_with_Trees.jpg",
+    "artist": "unknown artist",
+    "fileName": "Autumnal_Landscape_with_Trees.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/Autumnal_Landscape.jpg",
+    "artist": "unknown artist",
+    "fileName": "Autumnal_Landscape.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/Australian_Crucifixion.jpg",
+    "artist": "unknown artist",
+    "fileName": "Australian_Crucifixion.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/Anyworld.jpg",
+    "artist": "unknown artist",
+    "fileName": "Anyworld.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/All_Flash.jpg",
+    "artist": "unknown artist",
+    "fileName": "All_Flash.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/Abstract_still_life.jpg",
+    "artist": "unknown artist",
+    "fileName": "Abstract_still_life.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/74x74cm_Abstract_V.jpg",
+    "artist": "unknown artist",
+    "fileName": "74x74cm_Abstract_V.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/74x74cm_Abstract_IV.jpg",
+    "artist": "unknown artist",
+    "fileName": "74x74cm_Abstract_IV.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/74x74cm_Abstract_III.jpg",
+    "artist": "unknown artist",
+    "fileName": "74x74cm_Abstract_III.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/74x74cm_Abstract_II.jpg",
+    "artist": "unknown artist",
+    "fileName": "74x74cm_Abstract_II.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/74x74cm_Abstract_I.jpg",
+    "artist": "unknown artist",
+    "fileName": "74x74cm_Abstract_I.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/unknown_artist/products/54x54cm_Abstract.jpg",
+    "artist": "unknown artist",
+    "fileName": "54x54cm_Abstract.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/steve_page/products/Twrch.jpg",
+    "artist": "steve page",
+    "fileName": "Twrch.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/steve_page/products/Pony.jpg",
+    "artist": "steve page",
+    "fileName": "Pony.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/steve_page/products/Crow.jpg",
+    "artist": "steve page",
+    "fileName": "Crow.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/steve_page/products/Big_Blue.jpg",
+    "artist": "steve page",
+    "fileName": "Big_Blue.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/steve_page/products/Big Blue.jpg",
+    "artist": "steve page",
+    "fileName": "Big Blue.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/school_of_canaletto/products/The_Painting_School_of_Canaletto.jpg",
+    "artist": "school of canaletto",
+    "fileName": "The_Painting_School_of_Canaletto.jpg",
+    "category": "Painting",
+    "confidence": 0.8,
+    "analysis": "Identified as painting based on filename keywords"
+  },
+  {
+    "filePath": "public/school_of_canaletto/products/Painting_School_of_Canaletto.jpg",
+    "artist": "school of canaletto",
+    "fileName": "Painting_School_of_Canaletto.jpg",
+    "category": "Painting",
+    "confidence": 0.8,
+    "analysis": "Identified as painting based on filename keywords"
+  },
+  {
+    "filePath": "public/robert_owen/products/Owen.jpg",
+    "artist": "robert owen",
+    "fileName": "Owen.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/philippa_jacobs/products/Temptation_of_Eros.jpg",
+    "artist": "philippa jacobs",
+    "fileName": "Temptation_of_Eros.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/philippa_jacobs/products/River_Dee.jpg",
+    "artist": "philippa jacobs",
+    "fileName": "River_Dee.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/nick_elphick/products/Horse.jpg",
+    "artist": "nick elphick",
+    "fileName": "Horse.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/nick_elphick/products/Deers.jpg",
+    "artist": "nick elphick",
+    "fileName": "Deers.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/nick_elphick/products/DeerHead.jpg",
+    "artist": "nick elphick",
+    "fileName": "DeerHead.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/nick_elphick/products/BronzeHorse.png",
+    "artist": "nick elphick",
+    "fileName": "BronzeHorse.png",
+    "category": "Sculpture",
+    "confidence": 0.8,
+    "analysis": "Identified as sculpture based on filename keywords"
+  },
+  {
+    "filePath": "public/nick_elphick/products/BronzeHorse.jpg",
+    "artist": "nick elphick",
+    "fileName": "BronzeHorse.jpg",
+    "category": "Sculpture",
+    "confidence": 0.8,
+    "analysis": "Identified as sculpture based on filename keywords"
+  },
+  {
+    "filePath": "public/mfikela_jean_samuel/products/Travellers1_300.jpg",
+    "artist": "mfikela jean samuel",
+    "fileName": "Travellers1_300.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/mfikela_jean_samuel/products/Travellers1_300.jpeg",
+    "artist": "mfikela jean samuel",
+    "fileName": "Travellers1_300.jpeg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/mfikela_jean_samuel/products/Traveller2_400.jpg",
+    "artist": "mfikela jean samuel",
+    "fileName": "Traveller2_400.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/mfikela_jean_samuel/products/Traveller2_400.jpeg",
+    "artist": "mfikela jean samuel",
+    "fileName": "Traveller2_400.jpeg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/mfikela_jean_samuel/products/NaturalMystic_500.jpg",
+    "artist": "mfikela jean samuel",
+    "fileName": "NaturalMystic_500.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/mfikela_jean_samuel/products/NaturalMystic_500.jpeg",
+    "artist": "mfikela jean samuel",
+    "fileName": "NaturalMystic_500.jpeg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/mfikela_jean_samuel/products/Kinambo_500.jpg",
+    "artist": "mfikela jean samuel",
+    "fileName": "Kinambo_500.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/mfikela_jean_samuel/products/Kinambo_500.jpeg",
+    "artist": "mfikela jean samuel",
+    "fileName": "Kinambo_500.jpeg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/mfikela_jean_samuel/products/HeritageWithCobweb_450.jpg",
+    "artist": "mfikela jean samuel",
+    "fileName": "HeritageWithCobweb_450.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/mfikela_jean_samuel/products/HeritageWithCobweb_450.jpeg",
+    "artist": "mfikela jean samuel",
+    "fileName": "HeritageWithCobweb_450.jpeg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/mfikela_jean_samuel/products/AfricanFeel_400.jpg",
+    "artist": "mfikela jean samuel",
+    "fileName": "AfricanFeel_400.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/mfikela_jean_samuel/products/AfricanFeel_400.jpeg",
+    "artist": "mfikela jean samuel",
+    "fileName": "AfricanFeel_400.jpeg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/mfikela_jean_samuel/products/AfricanFeel2_400.jpg",
+    "artist": "mfikela jean samuel",
+    "fileName": "AfricanFeel2_400.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/mfikela_jean_samuel/products/AfricanFeel2_400.jpeg",
+    "artist": "mfikela jean samuel",
+    "fileName": "AfricanFeel2_400.jpeg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/mfikela_jean_samuel/products/Abstract1_259.jpg",
+    "artist": "mfikela jean samuel",
+    "fileName": "Abstract1_259.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/mfikela_jean_samuel/products/Abstract1_259.jpeg",
+    "artist": "mfikela jean samuel",
+    "fileName": "Abstract1_259.jpeg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/jo_anna_duncalf/products/Torso.jpg",
+    "artist": "jo anna duncalf",
+    "fileName": "Torso.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/jon_clayton/products/_Parting_of_the_Ways_._74x74cm._Mixed_media_on_canvas.jpg",
+    "artist": "jon clayton",
+    "fileName": "_Parting_of_the_Ways_._74x74cm._Mixed_media_on_canvas.jpg",
+    "category": "Painting",
+    "confidence": 0.8,
+    "analysis": "Identified as painting based on filename keywords"
+  },
+  {
+    "filePath": "public/jon_clayton/products/_Mawddach__Looking_Back__Acrylic_and_mixed_media_on_canvas_74x74cm_white_wood_frame..jpg",
+    "artist": "jon clayton",
+    "fileName": "_Mawddach__Looking_Back__Acrylic_and_mixed_media_on_canvas_74x74cm_white_wood_frame..jpg",
+    "category": "Painting",
+    "confidence": 0.8,
+    "analysis": "Identified as painting based on filename keywords"
+  },
+  {
+    "filePath": "public/jon_clayton/products/_Foel_Caerynwch_-_The_Hill_from_Everywhere_._Acrylic_and_mixed_media_on_canvas_74x74cm_white_wood_frame..jpg",
+    "artist": "jon clayton",
+    "fileName": "_Foel_Caerynwch_-_The_Hill_from_Everywhere_._Acrylic_and_mixed_media_on_canvas_74x74cm_white_wood_frame..jpg",
+    "category": "Painting",
+    "confidence": 0.8,
+    "analysis": "Identified as painting based on filename keywords"
+  },
+  {
+    "filePath": "public/jon_clayton/products/_Descent_into_the_Valley_._54x54cm._mixed_media_on_found_slate_from_the_place_of_drawing_in_mid_Wales..jpg",
+    "artist": "jon clayton",
+    "fileName": "_Descent_into_the_Valley_._54x54cm._mixed_media_on_found_slate_from_the_place_of_drawing_in_mid_Wales..jpg",
+    "category": "Drawing",
+    "confidence": 0.8,
+    "analysis": "Identified as drawing based on filename keywords"
+  },
+  {
+    "filePath": "public/jon_clayton/products/_After_the_Rain___74x74cm__Acrylic_and_Mixed_media_on_canvas.jpg",
+    "artist": "jon clayton",
+    "fileName": "_After_the_Rain___74x74cm__Acrylic_and_Mixed_media_on_canvas.jpg",
+    "category": "Painting",
+    "confidence": 0.8,
+    "analysis": "Identified as painting based on filename keywords"
+  },
+  {
+    "filePath": "public/jon_clayton/products/_Afon_Dusk_._74x74cm._Acrylic_and_mixed_media_on_canvas.jpg",
+    "artist": "jon clayton",
+    "fileName": "_Afon_Dusk_._74x74cm._Acrylic_and_mixed_media_on_canvas.jpg",
+    "category": "Painting",
+    "confidence": 0.8,
+    "analysis": "Identified as painting based on filename keywords"
+  },
+  {
+    "filePath": "public/jon_clayton/products/'Parting of the Ways'. 74x74cm. Mixed media on canvas.jpg",
+    "artist": "jon clayton",
+    "fileName": "'Parting of the Ways'. 74x74cm. Mixed media on canvas.jpg",
+    "category": "Painting",
+    "confidence": 0.8,
+    "analysis": "Identified as painting based on filename keywords"
+  },
+  {
+    "filePath": "public/jon_clayton/products/'Mawddach, Looking Back' Acrylic and mixed media on canvas 74x74cm white wood frame..JPG",
+    "artist": "jon clayton",
+    "fileName": "'Mawddach, Looking Back' Acrylic and mixed media on canvas 74x74cm white wood frame..JPG",
+    "category": "Painting",
+    "confidence": 0.8,
+    "analysis": "Identified as painting based on filename keywords"
+  },
+  {
+    "filePath": "public/jon_clayton/products/'Foel Caerynwch - The Hill from Everywhere'. Acrylic and mixed media on canvas 74x74cm white wood frame..JPG",
+    "artist": "jon clayton",
+    "fileName": "'Foel Caerynwch - The Hill from Everywhere'. Acrylic and mixed media on canvas 74x74cm white wood frame..JPG",
+    "category": "Painting",
+    "confidence": 0.8,
+    "analysis": "Identified as painting based on filename keywords"
+  },
+  {
+    "filePath": "public/jon_clayton/products/'Descent into the Valley'. 54x54cm. mixed media on found slate from the place of drawing in mid Wales..jpg",
+    "artist": "jon clayton",
+    "fileName": "'Descent into the Valley'. 54x54cm. mixed media on found slate from the place of drawing in mid Wales..jpg",
+    "category": "Drawing",
+    "confidence": 0.8,
+    "analysis": "Identified as drawing based on filename keywords"
+  },
+  {
+    "filePath": "public/jon_clayton/products/'After the Rain', 74x74cm, Acrylic and Mixed media on canvas.jpg",
+    "artist": "jon clayton",
+    "fileName": "'After the Rain', 74x74cm, Acrylic and Mixed media on canvas.jpg",
+    "category": "Painting",
+    "confidence": 0.8,
+    "analysis": "Identified as painting based on filename keywords"
+  },
+  {
+    "filePath": "public/jon_clayton/products/'Afon Dusk'. 74x74cm. Acrylic and mixed media on canvas.jpg",
+    "artist": "jon clayton",
+    "fileName": "'Afon Dusk'. 74x74cm. Acrylic and mixed media on canvas.jpg",
+    "category": "Painting",
+    "confidence": 0.8,
+    "analysis": "Identified as painting based on filename keywords"
+  },
+  {
+    "filePath": "public/gwern_borter/products/Eric__Gwern_Borter__1924.jpg",
+    "artist": "gwern borter",
+    "fileName": "Eric__Gwern_Borter__1924.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/glen_farrelly_arca/products/Sacred.jpg",
+    "artist": "glen farrelly arca",
+    "fileName": "Sacred.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/glen_farrelly_arca/products/Keyhole_View.jpg",
+    "artist": "glen farrelly arca",
+    "fileName": "Keyhole_View.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/glen_farrelly/products/Sacred_Image_2.jpg",
+    "artist": "glen farrelly",
+    "fileName": "Sacred_Image_2.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/glen_farrelly/products/Sacred_Image_1.jpg",
+    "artist": "glen farrelly",
+    "fileName": "Sacred_Image_1.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/glen_farrelly/products/Sacred Image 2.jpg",
+    "artist": "glen farrelly",
+    "fileName": "Sacred Image 2.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/glen_farrelly/products/Sacred Image 1.jpg",
+    "artist": "glen farrelly",
+    "fileName": "Sacred Image 1.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/glen_farrelly/products/May_Image_2.jpg",
+    "artist": "glen farrelly",
+    "fileName": "May_Image_2.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/glen_farrelly/products/May_Image_1.jpg",
+    "artist": "glen farrelly",
+    "fileName": "May_Image_1.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/glen_farrelly/products/May Image 2.jpg",
+    "artist": "glen farrelly",
+    "fileName": "May Image 2.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/glen_farrelly/products/May Image 1.jpg",
+    "artist": "glen farrelly",
+    "fileName": "May Image 1.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/gareth_nash/products/Y_Troi_Un.jpg",
+    "artist": "gareth nash",
+    "fileName": "Y_Troi_Un.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/gareth_nash/products/Y_Troi_Dwy.jpg",
+    "artist": "gareth nash",
+    "fileName": "Y_Troi_Dwy.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/gareth_nash/products/Y Troi Un.JPG",
+    "artist": "gareth nash",
+    "fileName": "Y Troi Un.JPG",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/gareth_nash/products/Y Troi Dwy.JPG",
+    "artist": "gareth nash",
+    "fileName": "Y Troi Dwy.JPG",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/frank_brangwyn/products/The_Brangwyn_Portfolio_of_lithographs__with_additional_etchings_.jpg",
+    "artist": "frank brangwyn",
+    "fileName": "The_Brangwyn_Portfolio_of_lithographs__with_additional_etchings_.jpg",
+    "category": "Print",
+    "confidence": 0.8,
+    "analysis": "Identified as print based on filename keywords"
+  },
+  {
+    "filePath": "public/frank_brangwyn/products/The_Brangwyn_Portfolio_of_lithographs.jpg",
+    "artist": "frank brangwyn",
+    "fileName": "The_Brangwyn_Portfolio_of_lithographs.jpg",
+    "category": "Print",
+    "confidence": 0.8,
+    "analysis": "Identified as print based on filename keywords"
+  },
+  {
+    "filePath": "public/susan_cantrill_williams/products/susan_product_005.png",
+    "artist": "susan cantrill williams",
+    "fileName": "susan_product_005.png",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/susan_cantrill_williams/products/susan_product_004.png",
+    "artist": "susan cantrill williams",
+    "fileName": "susan_product_004.png",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/susan_cantrill_williams/products/susan_product_003.png",
+    "artist": "susan cantrill williams",
+    "fileName": "susan_product_003.png",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/susan_cantrill_williams/products/susan_product_002.png",
+    "artist": "susan cantrill williams",
+    "fileName": "susan_product_002.png",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/susan_cantrill_williams/products/susan_product_001.png",
+    "artist": "susan cantrill williams",
+    "fileName": "susan_product_001.png",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/susan_cantrill_williams/products/Susan_Cantrill_Williams_Artwork.jpeg",
+    "artist": "susan cantrill williams",
+    "fileName": "Susan_Cantrill_Williams_Artwork.jpeg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/susan_cantrill_williams/products/Susan_Artwork_3.jpeg",
+    "artist": "susan cantrill williams",
+    "fileName": "Susan_Artwork_3.jpeg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/susan_cantrill_williams/products/Susan_Artwork_2.jpeg",
+    "artist": "susan cantrill williams",
+    "fileName": "Susan_Artwork_2.jpeg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/david_kereszteny_lewis/products/Wind___The_Rain.jpg",
+    "artist": "david kereszteny lewis",
+    "fileName": "Wind___The_Rain.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/david_kereszteny_lewis/products/Water_Reflection.jpg",
+    "artist": "david kereszteny lewis",
+    "fileName": "Water_Reflection.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/david_kereszteny_lewis/products/So_Windy.jpg",
+    "artist": "david kereszteny lewis",
+    "fileName": "So_Windy.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/david_kereszteny_lewis/products/Singing_Prayers___Hymns.jpg",
+    "artist": "david kereszteny lewis",
+    "fileName": "Singing_Prayers___Hymns.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/david_kereszteny_lewis/products/Rhos_Drawing.jpg",
+    "artist": "david kereszteny lewis",
+    "fileName": "Rhos_Drawing.jpg",
+    "category": "Drawing",
+    "confidence": 0.8,
+    "analysis": "Identified as drawing based on filename keywords"
+  },
+  {
+    "filePath": "public/david_kereszteny_lewis/products/Reminant.jpg",
+    "artist": "david kereszteny lewis",
+    "fileName": "Reminant.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/david_kereszteny_lewis/products/On_an_Edge.jpg",
+    "artist": "david kereszteny lewis",
+    "fileName": "On_an_Edge.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/david_kereszteny_lewis/products/Movement_of_the_Tide.jpg",
+    "artist": "david kereszteny lewis",
+    "fileName": "Movement_of_the_Tide.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/david_kereszteny_lewis/products/Left_Colwen.jpg",
+    "artist": "david kereszteny lewis",
+    "fileName": "Left_Colwen.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/david_kereszteny_lewis/products/Last_Few_Days.jpg",
+    "artist": "david kereszteny lewis",
+    "fileName": "Last_Few_Days.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/david_kereszteny_lewis/products/Hoping_for_Something.jpg",
+    "artist": "david kereszteny lewis",
+    "fileName": "Hoping_for_Something.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/david_kereszteny_lewis/products/Glorifying_Hand.jpg",
+    "artist": "david kereszteny lewis",
+    "fileName": "Glorifying_Hand.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/david_kereszteny_lewis/products/From_Gogarth_Quarry.jpg",
+    "artist": "david kereszteny lewis",
+    "fileName": "From_Gogarth_Quarry.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/david_kereszteny_lewis/products/Enclosure.jpg",
+    "artist": "david kereszteny lewis",
+    "fileName": "Enclosure.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/david_kereszteny_lewis/products/Call_It_Intuition.jpg",
+    "artist": "david kereszteny lewis",
+    "fileName": "Call_It_Intuition.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/david_kereszteny_lewis/products/By_the_Rivers.jpg",
+    "artist": "david kereszteny lewis",
+    "fileName": "By_the_Rivers.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/david_kereszteny_lewis/products/Breakwaters.jpg",
+    "artist": "david kereszteny lewis",
+    "fileName": "Breakwaters.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/david_kereszteny_lewis/products/Alltwen.jpg",
+    "artist": "david kereszteny lewis",
+    "fileName": "Alltwen.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/david_kereszteny_lewis/products/A_Little_Mystery_To_Me.jpg",
+    "artist": "david kereszteny lewis",
+    "fileName": "A_Little_Mystery_To_Me.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/alla_chakir/products/We_Stay_In_Eden.jpg",
+    "artist": "alla chakir",
+    "fileName": "We_Stay_In_Eden.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/alla_chakir/products/We Stay In Eden.jpg",
+    "artist": "alla chakir",
+    "fileName": "We Stay In Eden.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/alla_chakir/products/Rosehip_Tea.jpg",
+    "artist": "alla chakir",
+    "fileName": "Rosehip_Tea.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/alla_chakir/products/Rosehip Tea.jpg",
+    "artist": "alla chakir",
+    "fileName": "Rosehip Tea.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/alla_chakir/products/Once_and_Forever.jpg",
+    "artist": "alla chakir",
+    "fileName": "Once_and_Forever.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/alla_chakir/products/Once and Forever.jpg",
+    "artist": "alla chakir",
+    "fileName": "Once and Forever.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/steven_page/products/Abstract_Composition_6.jpg",
+    "artist": "steven page",
+    "fileName": "Abstract_Composition_6.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/steven_page/products/Abstract_Composition_5.jpg",
+    "artist": "steven page",
+    "fileName": "Abstract_Composition_5.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/steven_page/products/Abstract_Composition_4.jpg",
+    "artist": "steven page",
+    "fileName": "Abstract_Composition_4.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/steven_page/products/Abstract_Composition_3.jpg",
+    "artist": "steven page",
+    "fileName": "Abstract_Composition_3.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/steven_page/products/Abstract_Composition_2.jpg",
+    "artist": "steven page",
+    "fileName": "Abstract_Composition_2.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/andy_dobbie/products/Torso_3.jpg",
+    "artist": "andy dobbie",
+    "fileName": "Torso_3.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/andy_dobbie/products/Torso 3.jpg",
+    "artist": "andy dobbie",
+    "fileName": "Torso 3.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/andy_dobbie/products/The_Space_Between_Us_II_1920x1338.jpg",
+    "artist": "andy dobbie",
+    "fileName": "The_Space_Between_Us_II_1920x1338.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/andy_dobbie/products/The-Space-Between-Us-II-1920x1338.jpg",
+    "artist": "andy dobbie",
+    "fileName": "The-Space-Between-Us-II-1920x1338.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/andy_dobbie/products/Self_isolated_1920x1936.jpg",
+    "artist": "andy dobbie",
+    "fileName": "Self_isolated_1920x1936.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/andy_dobbie/products/Self-isolated-1920x1936.jpg",
+    "artist": "andy dobbie",
+    "fileName": "Self-isolated-1920x1936.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/andy_dobbie/products/La_Demoiselle_dYnys_Mon_Acrylic_on_Linen.jpg",
+    "artist": "andy dobbie",
+    "fileName": "La_Demoiselle_dYnys_Mon_Acrylic_on_Linen.jpg",
+    "category": "Painting",
+    "confidence": 0.8,
+    "analysis": "Identified as painting based on filename keywords"
+  },
+  {
+    "filePath": "public/andy_dobbie/products/Angular_Form_V.jpg",
+    "artist": "andy dobbie",
+    "fileName": "Angular_Form_V.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/andy_dobbie/products/Angular_Form_IV.jpg",
+    "artist": "andy dobbie",
+    "fileName": "Angular_Form_IV.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/andy_dobbie/products/Angular_Form_III.jpg",
+    "artist": "andy dobbie",
+    "fileName": "Angular_Form_III.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/andy_dobbie/products/Angular_Form_II.jpg",
+    "artist": "andy dobbie",
+    "fileName": "Angular_Form_II.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/andy_dobbie/products/Angular_Form_I.jpg",
+    "artist": "andy dobbie",
+    "fileName": "Angular_Form_I.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/andy_dobbie/products/Absurdus_Oil_on_Canvas_on_Panel.jpg",
+    "artist": "andy dobbie",
+    "fileName": "Absurdus_Oil_on_Canvas_on_Panel.jpg",
+    "category": "Painting",
+    "confidence": 0.8,
+    "analysis": "Identified as painting based on filename keywords"
+  },
+  {
+    "filePath": "public/andy_dobbie/products/Abstract_Figure_VII_1920x1922.jpg",
+    "artist": "andy dobbie",
+    "fileName": "Abstract_Figure_VII_1920x1922.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/andy_dobbie/products/Abstract_Figure_VI.jpg",
+    "artist": "andy dobbie",
+    "fileName": "Abstract_Figure_VI.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/andy_dobbie/products/Abstract-Figure-VII-1920x1922.jpg",
+    "artist": "andy dobbie",
+    "fileName": "Abstract-Figure-VII-1920x1922.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/andy_dobbie/products/Abstract-Figure-VI.jpg",
+    "artist": "andy dobbie",
+    "fileName": "Abstract-Figure-VI.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/steve_tootell/products/Steve Himself/steve puts it out.jpeg",
+    "artist": "steve tootell",
+    "fileName": "steve puts it out.jpeg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/steve_tootell/products/Steve Himself/Steve_WORKING.JPG",
+    "artist": "steve tootell",
+    "fileName": "Steve_WORKING.JPG",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/steve_tootell/products/Steve Himself/Steve_WORK.JPG",
+    "artist": "steve tootell",
+    "fileName": "Steve_WORK.JPG",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/steve_tootell/products/Steve Himself/Steve_AT_WORK.jpg",
+    "artist": "steve tootell",
+    "fileName": "Steve_AT_WORK.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/steve_tootell/products/Steve Himself/STeve_FIRE.JPG",
+    "artist": "steve tootell",
+    "fileName": "STeve_FIRE.JPG",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/steve_tootell/products/Steve Himself/Portrait.jpg",
+    "artist": "steve tootell",
+    "fileName": "Portrait.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/steve_tootell/products/Steve Branding/anagama mouth.jpg",
+    "artist": "steve tootell",
+    "fileName": "anagama mouth.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/steve_tootell/products/Steve Branding/Apple Tree Studios.JPG",
+    "artist": "steve tootell",
+    "fileName": "Apple Tree Studios.JPG",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/steve_tootell/products/Steve Bio/steve's charities copy.jpg",
+    "artist": "steve tootell",
+    "fileName": "steve's charities copy.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/david_kereszteny_lewis/products/EXHIBITION PRODUCTS/Wind & The Rain.jpeg",
+    "artist": "david kereszteny lewis",
+    "fileName": "Wind & The Rain.jpeg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/david_kereszteny_lewis/products/EXHIBITION PRODUCTS/Water Reflection.jpeg",
+    "artist": "david kereszteny lewis",
+    "fileName": "Water Reflection.jpeg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/david_kereszteny_lewis/products/EXHIBITION PRODUCTS/So Windy.jpeg",
+    "artist": "david kereszteny lewis",
+    "fileName": "So Windy.jpeg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/david_kereszteny_lewis/products/EXHIBITION PRODUCTS/Singing Prayers & Hymns.jpeg",
+    "artist": "david kereszteny lewis",
+    "fileName": "Singing Prayers & Hymns.jpeg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/david_kereszteny_lewis/products/EXHIBITION PRODUCTS/Rhos Drawing.jpeg",
+    "artist": "david kereszteny lewis",
+    "fileName": "Rhos Drawing.jpeg",
+    "category": "Drawing",
+    "confidence": 0.8,
+    "analysis": "Identified as drawing based on filename keywords"
+  },
+  {
+    "filePath": "public/david_kereszteny_lewis/products/EXHIBITION PRODUCTS/Reminant.jpeg",
+    "artist": "david kereszteny lewis",
+    "fileName": "Reminant.jpeg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/david_kereszteny_lewis/products/EXHIBITION PRODUCTS/On an Edge.jpeg",
+    "artist": "david kereszteny lewis",
+    "fileName": "On an Edge.jpeg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/david_kereszteny_lewis/products/EXHIBITION PRODUCTS/Movement of the Tide.jpeg",
+    "artist": "david kereszteny lewis",
+    "fileName": "Movement of the Tide.jpeg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/david_kereszteny_lewis/products/EXHIBITION PRODUCTS/Left Colwen.jpeg",
+    "artist": "david kereszteny lewis",
+    "fileName": "Left Colwen.jpeg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/david_kereszteny_lewis/products/EXHIBITION PRODUCTS/Last Few Days.jpeg",
+    "artist": "david kereszteny lewis",
+    "fileName": "Last Few Days.jpeg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/david_kereszteny_lewis/products/EXHIBITION PRODUCTS/Hoping for Something.jpeg",
+    "artist": "david kereszteny lewis",
+    "fileName": "Hoping for Something.jpeg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/david_kereszteny_lewis/products/EXHIBITION PRODUCTS/Glorifying Hand.jpeg",
+    "artist": "david kereszteny lewis",
+    "fileName": "Glorifying Hand.jpeg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/david_kereszteny_lewis/products/EXHIBITION PRODUCTS/From Gogarth Quarry.jpeg",
+    "artist": "david kereszteny lewis",
+    "fileName": "From Gogarth Quarry.jpeg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/david_kereszteny_lewis/products/EXHIBITION PRODUCTS/Enclosure.jpeg",
+    "artist": "david kereszteny lewis",
+    "fileName": "Enclosure.jpeg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/david_kereszteny_lewis/products/EXHIBITION PRODUCTS/Call It Intuition.jpeg",
+    "artist": "david kereszteny lewis",
+    "fileName": "Call It Intuition.jpeg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/david_kereszteny_lewis/products/EXHIBITION PRODUCTS/By the Rivers.jpeg",
+    "artist": "david kereszteny lewis",
+    "fileName": "By the Rivers.jpeg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/david_kereszteny_lewis/products/EXHIBITION PRODUCTS/Breakwaters.jpeg",
+    "artist": "david kereszteny lewis",
+    "fileName": "Breakwaters.jpeg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/david_kereszteny_lewis/products/EXHIBITION PRODUCTS/Alltwen.jpeg",
+    "artist": "david kereszteny lewis",
+    "fileName": "Alltwen.jpeg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "public/david_kereszteny_lewis/products/EXHIBITION PRODUCTS/A Little Mystery To Me.jpeg",
+    "artist": "david kereszteny lewis",
+    "fileName": "A Little Mystery To Me.jpeg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/102_Man_Mowing.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "102_Man_Mowing.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/101_Phyllis_at_Creswell_Quay__Pembs.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "101_Phyllis_at_Creswell_Quay__Pembs.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/100_Children_on_the_Beach.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "100_Children_on_the_Beach.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/099_Locks.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "099_Locks.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/098_Head_of_Poet_Dylan_Thomas.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "098_Head_of_Poet_Dylan_Thomas.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/097_News_Please.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "097_News_Please.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/096_Earth_Vs.Venus.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "096_Earth_Vs.Venus.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/095_Playing_Recorders.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "095_Playing_Recorders.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/094_Penarth_Pier.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "094_Penarth_Pier.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/093_Autumnal_Landscape.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "093_Autumnal_Landscape.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/092_Flowers__Lupins.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "092_Flowers__Lupins.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/091_Early_Still-Life__Wine_and_Flowers.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "091_Early_Still-Life__Wine_and_Flowers.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/090_The_Blue_Sunflower.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "090_The_Blue_Sunflower.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/089_Cow_and_Farm_Hopper.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "089_Cow_and_Farm_Hopper.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/088_Windswept_Landscape_with_Cottage.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "088_Windswept_Landscape_with_Cottage.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/087_The_Village_and_I_and_Marc_Chagall.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "087_The_Village_and_I_and_Marc_Chagall.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/086_Cockle_Pickers.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "086_Cockle_Pickers.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/085_Coracler.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "085_Coracler.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/084_Moelfre.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "084_Moelfre.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/083_The_Race.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "083_The_Race.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/082_Autumnal_Landscape_with_Trees.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "082_Autumnal_Landscape_with_Trees.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/081_Killjoy.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "081_Killjoy.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/080_Snowdon_from_Llyn_Mymbr.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "080_Snowdon_from_Llyn_Mymbr.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/079_The_River_Gwyrfai.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "079_The_River_Gwyrfai.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/078_Standing_Shepherd.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "078_Standing_Shepherd.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/077_Cutting_Images.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "077_Cutting_Images.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/076_Horses_at_Lle_Cul.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "076_Horses_at_Lle_Cul.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/075_Ponies__Anglesey.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "075_Ponies__Anglesey.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/074_Welsh_Black_Bull.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "074_Welsh_Black_Bull.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/073_Pontllyfni_in_Snow.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "073_Pontllyfni_in_Snow.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/072_Farmer_in_Overcoat_with_Walking_Stick.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "072_Farmer_in_Overcoat_with_Walking_Stick.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/071_Farmer_with_Walking_Stick.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "071_Farmer_with_Walking_Stick.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/070_Road_to_the_Mine__Blaenau_Ffestiniog.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "070_Road_to_the_Mine__Blaenau_Ffestiniog.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/069_Anglesey_in_Winter.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "069_Anglesey_in_Winter.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/068_Llyn-y-Fan_Fach.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "068_Llyn-y-Fan_Fach.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/067_Fishing_Boats__Marina.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "067_Fishing_Boats__Marina.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/066_Misty_Flooded_Moorland.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "066_Misty_Flooded_Moorland.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/065_Llanfachraeth.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "065_Llanfachraeth.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/064_Still_Life_with_Olives.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "064_Still_Life_with_Olives.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/063_Figure_at_Doorway_with_Garden.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "063_Figure_at_Doorway_with_Garden.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/062_Hon.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "062_Hon.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/061_Landscape_Series_No.37.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "061_Landscape_Series_No.37.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/060_Colourful_Study_of_Figure_on_Mule.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "060_Colourful_Study_of_Figure_on_Mule.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/059_Group_of_Standing_Farmers.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "059_Group_of_Standing_Farmers.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/058_Porth_Uchaf.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "058_Porth_Uchaf.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/057_Buchod_Dafydd.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "057_Buchod_Dafydd.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/056_The_Rising_Moon.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "056_The_Rising_Moon.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/055_Bathers.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "055_Bathers.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/054_Coastal_view_at_Dusk__Saundersfoot__Pembrokeshire.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "054_Coastal_view_at_Dusk__Saundersfoot__Pembrokeshire.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/053_All_Flash.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "053_All_Flash.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/052_Eric__Gwern_Borter__1924.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "052_Eric__Gwern_Borter__1924.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/051_Anyworld.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "051_Anyworld.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/050_Feeding_the_Birds.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "050_Feeding_the_Birds.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/049_Moon_Dog.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "049_Moon_Dog.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/048_Gower_Beach.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "048_Gower_Beach.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/047_Sloop_Inn__St._Ives.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "047_Sloop_Inn__St._Ives.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/046_Portrait_of_Mair_Stuart.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "046_Portrait_of_Mair_Stuart.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/045_Victoria___Albert_Museum.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "045_Victoria___Albert_Museum.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/044_The_Brangwyn_Portfolio_of_lithographs__with_additional_etchings.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "044_The_Brangwyn_Portfolio_of_lithographs__with_additional_etchings.jpg",
+    "category": "Print",
+    "confidence": 0.8,
+    "analysis": "Identified as print based on filename keywords"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/043_The_Brangwyn_Portfolio_of_lithographs.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "043_The_Brangwyn_Portfolio_of_lithographs.jpg",
+    "category": "Print",
+    "confidence": 0.8,
+    "analysis": "Identified as print based on filename keywords"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/042_Three_Blind_Women___The_Drunk.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "042_Three_Blind_Women___The_Drunk.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/041_Australian_Crucifixion.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "041_Australian_Crucifixion.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/040_Tyger_Tyger.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "040_Tyger_Tyger.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/039_Tyger_Tyger.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "039_Tyger_Tyger.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/038_London.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "038_London.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/037_Everybody_Wants_to_be_Somebody.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "037_Everybody_Wants_to_be_Somebody.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/036_Free_at_last.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "036_Free_at_last.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/035_Profile_in_Courage.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "035_Profile_in_Courage.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/034_Nobody_Can_Stop_an_Idea_Whose_Time_Has_Come.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "034_Nobody_Can_Stop_an_Idea_Whose_Time_Has_Come.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/033_Robert_Owen.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "033_Robert_Owen.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/032_Under_the_Yew_Tree.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "032_Under_the_Yew_Tree.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/031_Faith.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "031_Faith.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/030_How_many_ages.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "030_How_many_ages.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/029_St_James.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "029_St_James.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/028_Verso.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "028_Verso.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/027_The_Steps.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "027_The_Steps.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/026_Viaggio_Verso_II_Nord.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "026_Viaggio_Verso_II_Nord.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/025_Viaggio_Verso_il_Nord_1972.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "025_Viaggio_Verso_il_Nord_1972.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/024_Cockatoo.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "024_Cockatoo.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/023_Cottage_Landscape.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "023_Cottage_Landscape.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/022_Ice_skaters_on_a_frozen_river.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "022_Ice_skaters_on_a_frozen_river.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/021_The_Hedgecutter.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "021_The_Hedgecutter.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/020_The_Fuel_Gatherers.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "020_The_Fuel_Gatherers.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/019_Abstract_still_life.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "019_Abstract_still_life.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/018_Gundog_pair_stalking_grouse_in_cover.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "018_Gundog_pair_stalking_grouse_in_cover.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/017_Looking_towards_the_harbour.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "017_Looking_towards_the_harbour.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/016_Terriers_at_a_rabbit_hole.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "016_Terriers_at_a_rabbit_hole.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/015_Oude_Scheld_-_Texel_Island.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "015_Oude_Scheld_-_Texel_Island.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/014_Children_on_a_street_corner.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "014_Children_on_a_street_corner.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/013_French_Street_Scene.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "013_French_Street_Scene.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/012_Romeo_and_Juliet.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "012_Romeo_and_Juliet.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/011_Frieize_Of_Wallflowers__1.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "011_Frieize_Of_Wallflowers__1.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/010_Passing_Snowstorm_Over_The_Dee_Valley.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "010_Passing_Snowstorm_Over_The_Dee_Valley.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/009_Frieize_of_Wallflowers__2.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "009_Frieize_of_Wallflowers__2.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/008_Concourse.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "008_Concourse.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/007_Hollyhocks.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "007_Hollyhocks.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/006_Jean_Simon_Labret.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "006_Jean_Simon_Labret.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/005_Temptation_of_Eros.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "005_Temptation_of_Eros.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/004_Painting_School_of_Canaletto.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "004_Painting_School_of_Canaletto.jpg",
+    "category": "Painting",
+    "confidence": 0.8,
+    "analysis": "Identified as painting based on filename keywords"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/003_River_Dee.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "003_River_Dee.jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/002_The_Painting_School_of_Canaletto.jpg",
+    "artist": "Unknown Artist",
+    "fileName": "002_The_Painting_School_of_Canaletto.jpg",
+    "category": "Painting",
+    "confidence": 0.8,
+    "analysis": "Identified as painting based on filename keywords"
+  },
+  {
+    "filePath": "temp/ARTPRODUCTS/product_images/001_Alfred_Bachman_[1863___1956].jpg",
+    "artist": "Unknown Artist",
+    "fileName": "001_Alfred_Bachman_[1863___1956].jpg",
+    "category": "Unknown",
+    "confidence": 0.5,
+    "analysis": "Unable to determine medium from filename"
+  }
+]

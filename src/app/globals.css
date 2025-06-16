@@ -1,0 +1,197 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap');
+
+/* Francie Serif Local Font */
+@font-face {
+  font-family: 'Francie Serif';
+  src: url('/fonts/Francie Serif/Francie Serif.woff2') format('woff2'),
+       url('/fonts/Francie Serif/Francie Serif.woff') format('woff'),
+       url('/fonts/Francie Serif/Francie Serif.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    font-feature-settings: "kern" 1, "liga" 1, "calt" 1;
+  }
+  
+  body {
+    @apply font-body text-forest-900 bg-cream-50 antialiased;
+    background-image: 
+      radial-gradient(circle at 20% 80%, rgba(81, 105, 81, 0.03) 0%, transparent 50%),
+      radial-gradient(circle at 80% 20%, rgba(202, 169, 107, 0.03) 0%, transparent 50%);
+  }
+  
+  /* Override default link colors */
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: inherit;
+  }
+
+  /* Navigation styles removed - let Tailwind handle nav link colors */
+}
+
+@layer components {
+  .section-padding {
+    @apply py-20 lg:py-28 xl:py-32;
+  }
+  
+  .container-luxury {
+    @apply max-w-7xl mx-auto px-6 lg:px-8;
+  }
+  
+  .heading-display {
+    @apply font-display text-forest-900 leading-tight tracking-tight;
+  }
+  
+  .heading-section {
+    @apply heading-display text-4xl md:text-5xl lg:text-6xl xl:text-7xl;
+  }
+  
+  .heading-featured {
+    @apply heading-display text-3xl md:text-4xl lg:text-5xl;
+  }
+  
+  .heading-card {
+    @apply heading-display text-xl md:text-2xl lg:text-3xl;
+  }
+  
+  .text-luxury {
+    @apply font-body text-forest-800 leading-relaxed;
+  }
+  
+  .text-luxury-large {
+    @apply text-luxury text-lg md:text-xl leading-extra-loose;
+  }
+  
+  .btn-primary {
+    @apply inline-flex items-center justify-center px-8 py-4 font-elegant font-medium tracking-wide transition-all duration-300 shadow-elegant hover:shadow-luxe relative;
+    background: #b8944d;
+    color: #fefdfb;
+    border-radius: 3px;
+    border: 1px solid #9a7b3f;
+  }
+  
+  .btn-primary:hover {
+    background: #9a7b3f;
+    transform: translateY(-1px);
+  }
+  
+  .btn-secondary {
+    @apply inline-flex items-center justify-center px-8 py-4 font-elegant font-medium tracking-wide transition-all duration-300;
+    background: transparent !important;
+    color: #516951 !important;
+    border: 2px solid #516951 !important;
+    border-radius: 3px;
+  }
+  
+  .btn-secondary:hover {
+    background: #b8944d !important;
+    color: #fefdfb !important;
+    border-color: #b8944d !important;
+    transform: translateY(-1px);
+  }
+
+  /* Hero button override */
+  .btn-hero-secondary {
+    @apply inline-flex items-center justify-center px-8 py-4 font-elegant font-medium tracking-wide transition-all duration-300;
+    background: transparent !important;
+    color: white !important;
+    border: 2px solid white !important;
+    border-radius: 3px;
+    text-decoration: none !important;
+  }
+  
+  .btn-hero-secondary:hover {
+    background: #b8944d !important;
+    color: white !important;
+    border-color: #b8944d !important;
+    transform: translateY(-1px);
+  }
+  
+  .btn-ghost {
+    @apply inline-flex items-center justify-center px-8 py-4 font-elegant font-medium tracking-wide transition-all duration-300;
+    background: transparent;
+    color: #516951;
+    border: 1px solid #b8944d;
+    border-radius: 3px;
+  }
+  
+  .btn-ghost:hover {
+    background: rgba(184, 148, 77, 0.1);
+    color: #9a7b3f;
+    transform: translateY(-1px);
+  }
+  
+  /* Secondary button for light backgrounds */
+  .btn-secondary-light {
+    @apply inline-flex items-center justify-center px-8 py-4 font-elegant font-medium tracking-wide transition-all duration-300;
+    background: transparent;
+    color: #516951;
+    border: 2px solid #516951;
+    border-radius: 3px;
+  }
+  
+  .btn-secondary-light:hover {
+    background: #516951;
+    color: #fefdfb;
+    transform: translateY(-1px);
+  }
+  
+  .card-luxury {
+    @apply bg-cream-50/80 backdrop-blur-sm border border-cream-200 shadow-elegant hover:shadow-luxe transition-all duration-500 hover:transform hover:scale-105;
+  }
+  
+  .divider-elegant {
+    @apply w-24 h-px bg-gradient-to-r from-transparent via-gold-600 to-transparent mx-auto my-8;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+  
+  .scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+  
+  .shadow-luxe {
+    box-shadow: 0 10px 30px -5px rgba(81, 105, 81, 0.1), 0 4px 20px -4px rgba(81, 105, 81, 0.08);
+  }
+  
+  .shadow-elegant {
+    box-shadow: 0 4px 15px -3px rgba(81, 105, 81, 0.1), 0 2px 8px -2px rgba(81, 105, 81, 0.06);
+  }
+
+  /* Print styles for QR labels */
+  @media print {
+    .no-print {
+      display: none !important;
+    }
+    
+    body {
+      background: white !important;
+      background-image: none !important;
+    }
+    
+    .qr-label {
+      page-break-inside: avoid;
+      break-inside: avoid;
+    }
+  }
+}

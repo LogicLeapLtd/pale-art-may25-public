@@ -1,0 +1,12 @@
+# Exclude backup files from Vercel deployment
+backups/
+scripts/migrate-*.ts
+scripts/backup-*.ts
+scripts/check-*.ts
+MIGRATION_COMPLETED.md
+
+# Development files
+*.log
+.DS_Store
+.env.local
+.env.development
