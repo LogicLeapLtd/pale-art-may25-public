@@ -119,10 +119,10 @@ export default function FeaturedArtistSpotlight() {
             {/* CTA Buttons */}
             <div className="flex flex-col sm:flex-row gap-4">
               <Link 
-                href="/artists/david-kereszteny-lewis"
+                href="/exhibition/david-kereszteny-lewis"
                 className="btn-primary"
               >
-                View David's Profile
+                View Exhibition Details
               </Link>
               <Link 
                 href="/contact?subject=exhibition-enquiry"

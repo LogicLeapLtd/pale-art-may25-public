@@ -144,6 +144,15 @@ export default function BatchUpload() {
 
         if (response.ok) {
           setSuccessCount(prev => prev + 1)
+        } else {
+          const errorData = await response.text()
+          console.error(`Failed to upload artwork ${artwork.name}:`, response.status, errorData)
+          try {
+            const errorJson = JSON.parse(errorData)
+            console.error('Error details:', errorJson)
+          } catch (e) {
+            // Not JSON
+          }
         }
       } catch (error) {
         console.error('Failed to upload artwork:', error)

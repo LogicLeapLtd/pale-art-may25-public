@@ -131,6 +131,14 @@ export default function AdminCollectionsPage() {
                       className="w-full px-2 py-1 border rounded"
                       placeholder="Price"
                     />
+                    <input
+                      type="number"
+                      value={editedArtwork.stock ?? 1}
+                      onChange={(e) => setEditedArtwork({ ...editedArtwork, stock: parseInt(e.target.value) || 0 })}
+                      className="w-full px-2 py-1 border rounded"
+                      placeholder="Stock Quantity"
+                      min="0"
+                    />
                     <textarea
                       value={editedArtwork.description || ''}
                       onChange={(e) => setEditedArtwork({ ...editedArtwork, description: e.target.value })}
@@ -160,7 +168,8 @@ export default function AdminCollectionsPage() {
                   <>
                     <h3 className="text-lg font-semibold mb-1">{artwork.name}</h3>
                     <p className="text-sm text-gray-600 mb-1">{artwork.artist || 'Unknown Artist'}</p>
-                    <p className="text-sm font-medium mb-2">{artwork.price === '0' || artwork.price === '' || !artwork.price ? 'Enquire for Price' : artwork.price}</p>
+                    <p className="text-sm font-medium mb-1">{artwork.price === '0' || artwork.price === '' || !artwork.price ? 'Enquire for Price' : artwork.price}</p>
+                    <p className="text-sm mb-2">Stock: <span className={`font-medium ${(artwork.stock ?? 1) === 0 ? 'text-red-600' : 'text-green-600'}`}>{artwork.stock ?? 1}</span></p>
                     <div className="flex gap-2">
                       <button
                         onClick={() => handleEdit(artwork)}

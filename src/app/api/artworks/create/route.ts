@@ -3,6 +3,7 @@ import { prisma } from '@/lib/prisma'
 
 export async function POST(request: NextRequest) {
   try {
+    console.log('Create artwork API called')
     const formData = await request.formData()
     
     // Get form fields
@@ -28,10 +29,10 @@ export async function POST(request: NextRequest) {
       const uploadFormData = new FormData()
       uploadFormData.append('file', imageFile)
       
-      // Use relative URL for API calls in production
-      const baseUrl = process.env.VERCEL_URL 
-        ? `https://${process.env.VERCEL_URL}` 
-        : 'http://localhost:3000'
+      // Get the host from the request headers
+      const host = request.headers.get('host')
+      const protocol = process.env.NODE_ENV === 'production' ? 'https' : 'http'
+      const baseUrl = `${protocol}://${host}`
       
       console.log(`Upload URL: ${baseUrl}/api/upload`)
       
@@ -71,6 +72,10 @@ export async function POST(request: NextRequest) {
     }
 
     // Create artwork in database
+    console.log('Creating artwork with data:', {
+      name, artist, price, year, dimensions, medium, description, status, featured, slug, localImagePath
+    })
+    
     const artwork = await prisma.product.create({
       data: {
         id: `artwork-${Date.now()}-${Math.random().toString(36).substr(2, 9)}`,

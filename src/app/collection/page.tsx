@@ -2,6 +2,7 @@ import { getAllArtworks, getArtworksByMedium, getArtworksByArtist, getUniqueArti
 import Link from 'next/link'
 import Image from 'next/image'
 import CollectionFilters from '@/components/CollectionFilters'
+import ProductCard from '@/components/ProductCard'
 
 interface SearchParams {
   medium?: string
@@ -52,31 +53,59 @@ export default async function CollectionPage({
     })
   }
 
-  // Sort artworks
-  if (params.sort) {
-    switch (params.sort) {
-      case 'price-low':
-        artworks.sort((a, b) => {
-          const priceA = parseFloat(a.price.replace(/[^0-9.-]+/g, '')) || 0
-          const priceB = parseFloat(b.price.replace(/[^0-9.-]+/g, '')) || 0
-          return priceA - priceB
-        })
-        break
-      case 'price-high':
-        artworks.sort((a, b) => {
-          const priceA = parseFloat(a.price.replace(/[^0-9.-]+/g, '')) || 0
-          const priceB = parseFloat(b.price.replace(/[^0-9.-]+/g, '')) || 0
-          return priceB - priceA
-        })
-        break
-      case 'newest':
-        artworks.sort((a, b) => new Date(b.createdAt).getTime() - new Date(a.createdAt).getTime())
-        break
-      case 'oldest':
-        artworks.sort((a, b) => new Date(a.createdAt).getTime() - new Date(b.createdAt).getTime())
-        break
+  // Helper function to parse price with special formats
+  const parsePrice = (priceStr: string): number => {
+    if (!priceStr || priceStr === '' || priceStr.toLowerCase() === 'sold') return 0
+    
+    // Handle "Pair £X" format - extract the first price only
+    const pairMatch = priceStr.match(/Pair\s*£([\d,]+(?:\.\d+)?)/i)
+    if (pairMatch) {
+      return parseFloat(pairMatch[1].replace(/,/g, '')) || 0
     }
+    
+    // Extract the first price found in the string
+    const priceMatch = priceStr.match(/£?([\d,]+(?:\.\d+)?)/i)
+    if (priceMatch) {
+      return parseFloat(priceMatch[1].replace(/,/g, '')) || 0
+    }
+    
+    return 0
   }
+
+  // Sort artworks - default to price-high if no sort specified
+  const sortMethod = params.sort || 'price-high'
+  
+  switch (sortMethod) {
+    case 'price-low':
+      artworks.sort((a, b) => {
+        const priceA = parsePrice(a.price)
+        const priceB = parsePrice(b.price)
+        return priceA - priceB
+      })
+      break
+    case 'price-high':
+      artworks.sort((a, b) => {
+        const priceA = parsePrice(a.price)
+        const priceB = parsePrice(b.price)
+        return priceB - priceA
+      })
+      break
+    case 'newest':
+      artworks.sort((a, b) => new Date(b.createdAt).getTime() - new Date(a.createdAt).getTime())
+      break
+    case 'oldest':
+      artworks.sort((a, b) => new Date(a.createdAt).getTime() - new Date(b.createdAt).getTime())
+      break
+  }
+  
+  // Always sort by stock - out of stock items go to the bottom
+  artworks.sort((a, b) => {
+    const stockA = a.stock || 0
+    const stockB = b.stock || 0
+    if (stockA === 0 && stockB > 0) return 1
+    if (stockA > 0 && stockB === 0) return -1
+    return 0
+  })
 
   const artists = await getUniqueArtists()
   const mediums = await getUniqueMediums()
@@ -92,6 +121,9 @@ export default async function CollectionPage({
           className="object-cover"
           priority
           quality={85}
+          sizes="100vw"
+          placeholder="blur"
+          blurDataURL="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAABAAEDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAn/xAAUEAEAAAAAAAAAAAAAAAAAAAAA/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAX/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCdABmX/9k="
         />
         <div className="absolute inset-0 bg-black/40"></div>
         <div className="container-luxury relative text-center">
@@ -152,49 +184,7 @@ export default async function CollectionPage({
           ) : (
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8">
               {artworks.map((artwork) => (
-                <Link 
-                  key={artwork.id} 
-                  href={`/collection/${artwork.slug}`}
-                  className="group block"
-                >
-                  <div className="card-luxury p-0 overflow-hidden">
-                    <div className="aspect-square relative overflow-hidden">
-                      <Image
-                        src={artwork.localImagePath || artwork.originalImageUrl}
-                        alt={artwork.name}
-                        fill
-                        className="object-cover transition-transform duration-500 group-hover:scale-105"
-                        sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 25vw"
-                        priority={artworks.indexOf(artwork) < 8}
-                        placeholder="blur"
-                        blurDataURL="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAABAAEDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAv/xAAhEAACAQMDBQAAAAAAAAAAAAABAgMABAUGIWGRkqGx0f/EABUBAQEAAAAAAAAAAAAAAAAAAAMF/8QAGhEAAgIDAAAAAAAAAAAAAAAAAAECEgMRkf/aAAwDAQACEQMRAD8AltJagyeH0AthI5xdrLcNM91BF5pX2HaH9bcfaSXWGaRmknyJckliyjqTzSlT54b6bk+h0R+Kk="
-                        quality={85}
-                        {...(artworks.indexOf(artwork) >= 8 && { loading: "lazy" })}
-                      />
-                      {artwork.status !== 'available' && (
-                        <div className="absolute top-4 right-4 bg-gold-600 text-cream-50 px-3 py-1 rounded-full text-sm font-medium capitalize">
-                          {artwork.status}
-                        </div>
-                      )}
-                    </div>
-                    
-                    <div className="p-6">
-                      <h3 className="text-base md:text-lg lg:text-xl font-display text-forest-900 mb-2 group-hover:text-gold-700 transition-colors duration-300">
-                        {artwork.name}
-                      </h3>
-                      
-                      <p className="font-body text-gold-600 italic mb-3">
-                        {artwork.artist || 'Palé Hall Collection'}
-                      </p>
-                      
-                      <div className="flex items-center justify-end">
-                        <span className="font-elegant font-medium text-forest-900 text-sm">
-                          {artwork.price === '0' || artwork.price === '' || !artwork.price ? 'Enquire for Price' : artwork.price}
-                        </span>
-                      </div>
-                    </div>
-                  </div>
-                </Link>
+                <ProductCard key={artwork.id} product={artwork} />
               ))}
             </div>
           )}

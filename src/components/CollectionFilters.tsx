@@ -66,11 +66,10 @@ export default function CollectionFilters({
   ]
 
   const sortOptions = [
-    { value: '', label: 'Sort By' },
+    { value: 'price-high', label: 'Price: High to Low' },
+    { value: 'price-low', label: 'Price: Low to High' },
     { value: 'newest', label: 'Newest First' },
     { value: 'oldest', label: 'Oldest First' },
-    { value: 'price-low', label: 'Price: Low to High' },
-    { value: 'price-high', label: 'Price: High to Low' },
     { value: 'name-asc', label: 'Name: A to Z' },
     { value: 'name-desc', label: 'Name: Z to A' }
   ]
@@ -157,7 +156,7 @@ export default function CollectionFilters({
         
         <CustomDropdown
           options={sortOptions}
-          value={currentSort || ''}
+          value={currentSort || 'price-high'}
           onChange={(value) => updateFilter('sort', value)}
           placeholder="Sort By"
           className="min-w-0"

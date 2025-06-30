@@ -53,6 +53,7 @@ export async function PUT(
         description: data.description,
         category: data.category,
         slug: data.slug,
+        localImagePath: data.localImagePath || undefined,
         updatedAt: new Date()
       }
     })

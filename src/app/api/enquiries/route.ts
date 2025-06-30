@@ -1,55 +1,79 @@
 import { NextResponse } from 'next/server'
+import { z } from 'zod'
 import { prisma } from '@/lib/prisma'
+import { sendEnquiryEmail } from '@/lib/email'
 
-export async function GET() {
-  try {
-    const enquiries = await prisma.enquiry.findMany({
-      orderBy: {
-        createdAt: 'desc'
-      }
-    })
-    
-    return NextResponse.json(enquiries)
-  } catch (error) {
-    console.error('Error fetching enquiries:', error)
-    return NextResponse.json(
-      { error: 'Failed to fetch enquiries' },
-      { status: 500 }
-    )
-  }
-}
+const enquirySchema = z.object({
+  name: z.string().min(2),
+  email: z.string().email(),
+  phone: z.string().optional(),
+  message: z.string().min(10),
+  artworkId: z.string(),
+  artworkName: z.string(),
+  artist: z.string().optional()
+})
 
 export async function POST(request: Request) {
   try {
     const body = await request.json()
-    const { 
-      name, 
-      email, 
-      phone, 
-      subject, 
-      message, 
-      artworkId, 
-      artworkName 
-    } = body
+    const data = enquirySchema.parse(body)
 
+    // Get the product to verify it exists
+    const product = await prisma.product.findUnique({
+      where: { id: data.artworkId }
+    })
+
+    if (!product) {
+      return NextResponse.json(
+        { error: 'Artwork not found' },
+        { status: 404 }
+      )
+    }
+
+    // Create the enquiry in the database
     const enquiry = await prisma.enquiry.create({
       data: {
-        name,
-        email,
-        phone: phone || null,
-        subject,
-        message,
-        artworkId: artworkId || null,
-        artworkName: artworkName || null,
-        status: 'new'
+        name: data.name,
+        email: data.email,
+        phone: data.phone,
+        subject: 'Artwork Enquiry',
+        message: data.message,
+        productId: data.artworkId,
+        status: 'pending'
       }
     })
 
-    return NextResponse.json(enquiry)
+    // Send email to art@palehall.co.uk
+    try {
+      await sendEnquiryEmail({
+        enquiry: {
+          ...enquiry,
+          product: {
+            name: data.artworkName,
+            artist: data.artist || null
+          }
+        }
+      })
+    } catch (emailError) {
+      console.error('Failed to send enquiry email:', emailError)
+      // Don't fail the request if email fails - the enquiry is still saved
+    }
+
+    return NextResponse.json({ 
+      success: true, 
+      enquiryId: enquiry.id 
+    })
   } catch (error) {
-    console.error('Error creating enquiry:', error)
+    if (error instanceof z.ZodError) {
+      return NextResponse.json(
+        { error: 'Invalid form data', details: error.errors },
+        { status: 400 }
+      )
+    }
+
+    console.error('Enquiry submission error:', error)
     return NextResponse.json(
-      { error: 'Failed to create enquiry' },
+      { error: 'Failed to submit enquiry' },
       { status: 500 }
     )
   }

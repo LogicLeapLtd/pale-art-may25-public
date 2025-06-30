@@ -177,6 +177,20 @@
   .shadow-elegant {
     box-shadow: 0 4px 15px -3px rgba(81, 105, 81, 0.1), 0 2px 8px -2px rgba(81, 105, 81, 0.06);
   }
+  
+  /* Loading animation for images */
+  @keyframes shimmer {
+    0% {
+      transform: translateX(-100%);
+    }
+    100% {
+      transform: translateX(100%);
+    }
+  }
+  
+  .animate-shimmer {
+    animation: shimmer 2s infinite;
+  }
 
   /* Print styles for QR labels */
   @media print {

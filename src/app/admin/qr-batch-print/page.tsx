@@ -581,7 +581,7 @@ function BatchPrintLabels({
 
               {/* Footer */}
               <div className={`text-center mt-auto pt-4 text-xs ${styles.accent}`}>
-                <p>Scan for details • palehall.co.uk</p>
+                <p>Scan for details • palehallfineartandantiques.co.uk</p>
               </div>
             </div>
           ))}

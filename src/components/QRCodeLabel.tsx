@@ -2,6 +2,7 @@
 
 import { useState, useEffect } from 'react'
 import Image from 'next/image'
+import { PRODUCTION_BASE_URL } from '@/lib/config'
 
 interface Artwork {
   id: string
@@ -26,8 +27,8 @@ export default function QRCodeLabel({ artwork, onClose, theme = 'default' }: QRC
   const [selectedSize, setSelectedSize] = useState<'small' | 'medium' | 'large'>('medium')
   
   useEffect(() => {
-    // Generate QR code URL
-    const baseUrl = `${window.location.origin}/qr/${artwork.slug || artwork.id}`
+    // Generate QR code URL using production base URL
+    const baseUrl = `${PRODUCTION_BASE_URL}/qr/${artwork.slug || artwork.id}`
     const qrCodeUrl = `https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=${encodeURIComponent(baseUrl)}`
     setQrUrl(qrCodeUrl)
   }, [artwork])

@@ -2,6 +2,8 @@ import type { Metadata } from 'next'
 import { Crimson_Text } from 'next/font/google'
 import Header from '@/components/Header'
 import Footer from '@/components/Footer'
+import { AuthProvider } from '@/contexts/AuthContext'
+import { CartProvider } from '@/contexts/CartContext'
 import './globals.css'
 
 const crimson = Crimson_Text({
@@ -40,11 +42,15 @@ export default function RootLayout({
         />
       </head>
       <body className="relative">
-        <Header />
-        <main className="pt-24">
-          {children}
-        </main>
-        <Footer />
+        <AuthProvider>
+          <CartProvider>
+            <Header />
+            <main className="pt-20 lg:pt-24">
+              {children}
+            </main>
+            <Footer />
+          </CartProvider>
+        </AuthProvider>
       </body>
     </html>
   )

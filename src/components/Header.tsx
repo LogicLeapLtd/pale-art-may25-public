@@ -4,6 +4,9 @@ import Link from 'next/link'
 import Image from 'next/image'
 import { useState, useEffect } from 'react'
 import { usePathname } from 'next/navigation'
+import { useAuth } from '@/contexts/AuthContext'
+import { useCart } from '@/contexts/CartContext'
+import { User, ShoppingBag } from 'lucide-react'
 
 export default function Header() {
   const [isMenuOpen, setIsMenuOpen] = useState(false)
@@ -11,6 +14,8 @@ export default function Header() {
   const [activeMegaMenu, setActiveMegaMenu] = useState<string | null>(null)
   const [megaMenuTimer, setMegaMenuTimer] = useState<NodeJS.Timeout | null>(null)
   const pathname = usePathname()
+  const { user, loading } = useAuth()
+  const { count: cartCount } = useCart()
 
   const handleMegaMenuEnter = (menuName: string) => {
     if (megaMenuTimer) {
@@ -33,6 +38,7 @@ export default function Header() {
     window.addEventListener('scroll', handleScroll)
     return () => window.removeEventListener('scroll', handleScroll)
   }, [])
+
 
   const isAdminPage = pathname === '/admin' || pathname.startsWith('/admin/')
   
@@ -473,7 +479,7 @@ export default function Header() {
 
   return (
     <>
-      <header className={`fixed top-0 left-0 right-0 z-50 transition-all duration-500 bg-white shadow-luxe border-b border-gold-200/30`}>
+      <header className={`fixed top-0 left-0 right-0 z-[100] transition-all duration-500 bg-white shadow-luxe border-b border-gold-200/30`}>
         <nav className="container-luxury">
           <div className="flex justify-between items-center py-6">
             {/* Logo */}
@@ -523,6 +529,7 @@ export default function Header() {
                     style={{
                       color: '#2a352a' // forest-900
                     }}
+                    onClick={() => setActiveMegaMenu(null)}
                   >
                     <span className="font-body tracking-wide">{link.label}</span>
                     <svg className="w-4 h-4 transition-transform duration-300 group-hover:rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -565,11 +572,47 @@ export default function Header() {
                   </svg>
                 </button>
               </div>
+              
+              {/* Cart and Account */}
+              <div className="flex items-center space-x-4 ml-8 border-l pl-8 border-gold-200/30">
+                <Link
+                  href="/cart"
+                  className="relative p-2 hover:bg-gold-50/50 rounded-lg transition-all duration-300"
+                >
+                  <ShoppingBag className="w-5 h-5 text-forest" />
+                  {cartCount > 0 && (
+                    <span className="absolute -top-1 -right-1 bg-gold text-white text-xs font-medium rounded-full h-5 w-5 flex items-center justify-center">
+                      {cartCount}
+                    </span>
+                  )}
+                </Link>
+                
+                {loading ? (
+                  <div className="w-5 h-5 animate-pulse bg-sage-light rounded-full" />
+                ) : user ? (
+                  <Link
+                    href="/account"
+                    className="p-2 hover:bg-gold-50/50 rounded-lg transition-all duration-300"
+                  >
+                    <User className="w-5 h-5 text-forest" />
+                  </Link>
+                ) : (
+                  <Link
+                    href="/auth/login"
+                    className="text-sm font-medium text-forest hover:text-gold transition-colors"
+                  >
+                    Sign in
+                  </Link>
+                )}
+              </div>
             </div>
 
             {/* Mobile Navigation (Hamburger) */}
             <div className="lg:hidden flex items-center">
-              <button className={`flex flex-col justify-center items-center w-10 h-10 space-y-1 relative z-10 transition-all duration-300 ${isMenuOpen ? 'fixed right-container' : ''}`}>
+              <button 
+                className={`flex flex-col justify-center items-center w-10 h-10 space-y-1 relative z-[210] transition-all duration-300 ${isMenuOpen ? 'fixed right-6' : ''}`}
+                onClick={() => setIsMenuOpen(!isMenuOpen)}
+              >
                 <span className={`transition-all duration-300 ${isMenuOpen ? 'rotate-45 translate-y-1.5' : ''}`}
                       style={{
                         width: '1.5rem', 
@@ -594,10 +637,131 @@ export default function Header() {
         </nav>
       </header>
 
+      {/* Mobile Menu Overlay */}
+      {isMenuOpen && (
+        <div 
+          className="fixed inset-0 bg-white z-[200] flex flex-col pt-[88px] overflow-y-auto"
+          onClick={() => setIsMenuOpen(false)}
+        >
+          <div className="flex flex-col flex-grow">
+            {/* E-commerce Actions - Prominent at top */}
+            <div className="bg-gold-50/30 border-b border-gold-200/30 px-4 py-4 space-y-3">
+              <Link
+                href="/cart"
+                className="flex items-center justify-between p-3 bg-white rounded-lg border border-gold-200/50 hover:border-gold-400 transition-all duration-300"
+                onClick={() => setIsMenuOpen(false)}
+              >
+                <div className="flex items-center space-x-3">
+                  <ShoppingBag className="w-6 h-6 text-gold-600" />
+                  <span className="font-body text-lg font-medium text-forest-900">Shopping Cart</span>
+                </div>
+                {cartCount > 0 && (
+                  <span className="bg-gold-600 text-white text-sm font-medium rounded-full h-6 w-6 flex items-center justify-center">
+                    {cartCount}
+                  </span>
+                )}
+              </Link>
+              
+              {loading ? (
+                <div className="p-3 bg-white rounded-lg border border-cream-300">
+                  <div className="w-full h-6 animate-pulse bg-sage-light rounded" />
+                </div>
+              ) : user ? (
+                <Link
+                  href="/account"
+                  className="flex items-center justify-between p-3 bg-white rounded-lg border border-gold-200/50 hover:border-gold-400 transition-all duration-300"
+                  onClick={() => setIsMenuOpen(false)}
+                >
+                  <div className="flex items-center space-x-3">
+                    <User className="w-6 h-6 text-gold-600" />
+                    <span className="font-body text-lg font-medium text-forest-900">My Account</span>
+                  </div>
+                  <svg className="w-5 h-5 text-gold-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M9 5l7 7-7 7" />
+                  </svg>
+                </Link>
+              ) : (
+                <Link
+                  href="/auth/login"
+                  className="flex items-center justify-center p-3 bg-gold-600 text-white rounded-lg hover:bg-gold-700 transition-all duration-300"
+                  onClick={() => setIsMenuOpen(false)}
+                >
+                  <User className="w-5 h-5 mr-2" />
+                  <span className="font-body text-lg font-medium">Sign In</span>
+                </Link>
+              )}
+            </div>
+
+            {/* Main Navigation */}
+            <nav className="flex-1 flex flex-col py-6 px-4 space-y-4">
+              {navLinks.map((link) => (
+                <Link
+                  key={link.href}
+                  href={link.href}
+                  className="font-display text-2xl text-forest-900 hover:text-gold-700 transition-colors duration-300 py-2"
+                  onClick={() => setIsMenuOpen(false)}
+                >
+                  {link.label}
+                </Link>
+              ))}
+              
+              <div className="border-t border-gold-200/30 pt-4 mt-4">
+                <a
+                  href="https://palehall.co.uk"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="flex items-center space-x-3 py-2"
+                  onClick={() => setIsMenuOpen(false)}
+                >
+                  <div className="relative w-8 h-8">
+                    <Image
+                      src="/Logos/Pale_Hall_DarkGreen_Square_Icon.png"
+                      alt="Palé Hall Hotel"
+                      width={32}
+                      height={32}
+                      quality={80}
+                    />
+                  </div>
+                  <span className="font-display text-xl text-forest-900 hover:text-gold-700 transition-colors duration-300">
+                    Palé Hall Hotel
+                  </span>
+                </a>
+              </div>
+            </nav>
+
+            {/* Footer Info */}
+            <div className="mt-auto border-t border-gold-200/30 py-6 px-4 bg-cream-50/50">
+              <div className="space-y-3 text-sm text-forest-700">
+                <Link 
+                  href="/contact" 
+                  className="flex items-center space-x-2 hover:text-gold-700 transition-colors"
+                  onClick={() => setIsMenuOpen(false)}
+                >
+                  <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z" />
+                  </svg>
+                  <span>Contact Gallery</span>
+                </Link>
+                <Link 
+                  href="/how-to-buy" 
+                  className="flex items-center space-x-2 hover:text-gold-700 transition-colors"
+                  onClick={() => setIsMenuOpen(false)}
+                >
+                  <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M8.228 9c.549-1.165 2.03-2 3.772-2 2.21 0 4 1.343 4 3 0 1.4-1.278 2.575-3.006 2.907-.542.104-.994.54-.994 1.093m0 3h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+                  </svg>
+                  <span>How to Purchase</span>
+                </Link>
+              </div>
+            </div>
+          </div>
+        </div>
+      )}
+
       {/* Mega Menu */}
       {activeMegaMenu && megaMenus[activeMegaMenu as keyof typeof megaMenus] && (
         <div 
-          className="fixed top-[88px] left-0 right-0 z-40 bg-white shadow-luxe border-b border-gold-200/30"
+          className="fixed top-[88px] left-0 right-0 z-[90] bg-white shadow-luxe border-b border-gold-200/30"
           onMouseEnter={() => handleMegaMenuEnter(activeMegaMenu)}
           onMouseLeave={handleMegaMenuLeave}
         >

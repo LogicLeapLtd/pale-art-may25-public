@@ -11,7 +11,7 @@ const heroSlides = [
     artist: 'Master Collection',
     subtitle: 'Wales\' Greatest Artist',
     description: 'Discover over 100 exceptional works from Wales\' greatest artist',
-    image: '/ART/Landscape_Hero_1.jpg',
+    image: '/ART/Anglesey_in_Winter.jpg',
     type: 'featured-collection'
   },
   {
@@ -20,8 +20,17 @@ const heroSlides = [
     artist: 'Curated Collection',
     subtitle: 'Contemporary Gallery',
     description: 'Discover extraordinary artworks in the heart of Wales',
-    image: '/ART/landscape-hero-2.jpg',
+    image: '/ART/dsc02540.jpg',
     type: 'artwork'
+  },
+  {
+    id: 3,
+    title: 'David Kereszteny Lewis',
+    artist: 'Now Open',
+    subtitle: 'Current Exhibition',
+    description: 'Experience an exclusive exhibition featuring captivating works by this remarkable artist, now open',
+    image: '/ART/Landscape_Hero_1.jpg',
+    type: 'exhibition'
   }
 ]
 
@@ -106,18 +115,21 @@ export default function Hero() {
                 <Link 
                   href={
                     currentHero.type === 'featured-collection' ? '/artists/sir-kyffin-williams' : 
-                    currentHero.type === 'artists' ? '/artists' : '/collection'
+                    currentHero.type === 'artists' ? '/artists' : 
+                    currentHero.type === 'exhibition' ? '/exhibition/david-kereszteny-lewis' : '/collection'
                   }
                   className="btn-primary text-lg px-12 py-5"
                 >
                   {currentHero.type === 'featured-collection' ? 'View Collection' : 
-                   currentHero.type === 'artists' ? 'Meet Our Artists' : 'Explore Collection'}
+                   currentHero.type === 'artists' ? 'Meet Our Artists' : 
+                   currentHero.type === 'exhibition' ? 'View Exhibition' : 'Explore Collection'}
                 </Link>
                 <Link 
-                  href="/contact"
+                  href={currentHero.type === 'exhibition' ? '/contact?subject=exhibition-enquiry' : '/contact'}
                   className="btn-hero-secondary text-lg"
                 >
-                  {currentHero.type === 'featured-collection' ? 'Enquire Today' : 'Discover Our Story'}
+                  {currentHero.type === 'featured-collection' ? 'Enquire Today' : 
+                   currentHero.type === 'exhibition' ? 'Enquire About Exhibition' : 'Discover Our Story'}
                 </Link>
               </div>
             </div>

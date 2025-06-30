@@ -403,9 +403,9 @@ function PrintableLeaflet({ artist, artworks, isPreview = false, variant = '1' }
       
       for (const artwork of artworks) {
         try {
-          const url = `${window.location.origin}/collection/${artwork.slug}`;
+          const url = `http://palehallfineartandantiques.co.uk/collection/${artwork.slug}`;
           const qrCode = await QRCode.toDataURL(url, {
-            width: 80,
+            width: 150,
             margin: 1,
             color: {
               dark: '#516951',
@@ -435,35 +435,32 @@ function PrintableLeaflet({ artist, artworks, isPreview = false, variant = '1' }
 
   return (<div>
       {/* Cover Page */}
-      <div className={`flex flex-col justify-between bg-cream-50 ${!isPreview ? 'page-break' : ''}`} style={{ width: '210mm', height: '297mm', padding: '40mm 25mm 25mm 25mm' }}>
-        <div>
-          <div className="text-center mb-16">
-            <div className="w-32 h-px bg-gold-500 mx-auto mb-8"></div>
-            <h1 className="text-5xl font-display text-forest-900 mb-4">
-              {artist.name}
-            </h1>
-            <p className="text-2xl font-elegant text-forest-700">
-              Exhibition at Palé Hall
-            </p>
-            <div className="w-32 h-px bg-gold-500 mx-auto mt-8"></div>
-          </div>
-          
-          {artworks[0] && (
-            <div className="h-[500px] mb-8 flex items-center justify-center">
-              <img
-                src={artworks[0].localImagePath || artworks[0].originalImageUrl || '/placeholder-artwork.svg'}
-                alt={artworks[0].name}
-                className="max-w-full max-h-full object-contain"
-                style={{ maxHeight: '500px' }}
-              />
-            </div>
-          )}
+      <div className={`bg-cream-50 ${!isPreview ? 'page-break' : ''}`} style={{ width: '210mm', height: '297mm', padding: '30mm 25mm 25mm 25mm' }}>
+        <div className="text-center mb-8">
+          <div className="w-32 h-px bg-gold-500 mx-auto mb-6"></div>
+          <h1 className="text-4xl font-display text-forest-900 mb-4">
+            {artist.name}
+          </h1>
+          <p className="text-2xl font-elegant text-forest-700">
+            Exhibition at Palé Hall
+          </p>
+          <div className="w-32 h-px bg-gold-500 mx-auto mt-6"></div>
         </div>
         
+        {artworks[0] && (
+          <div className="flex items-center justify-center mb-8" style={{ height: '140mm' }}>
+            <img
+              src={artworks[0].localImagePath || artworks[0].originalImageUrl || '/placeholder-artwork.svg'}
+              alt={artworks[0].name}
+              className="max-w-full max-h-full object-contain"
+            />
+          </div>
+        )}
+        
         <div className="text-center">
-          <p className="font-display text-lg text-forest-900 mb-2">Palé Hall Gallery</p>
-          <p className="text-forest-600 font-body">Llandderfel, Bala, Gwynedd LL23 7PS</p>
-          <p className="text-gold-600 font-elegant">palehall.co.uk</p>
+          <p className="font-display text-xl text-forest-900 mb-2">Palé Hall Gallery</p>
+          <p className="text-forest-600 font-body text-lg">Llandderfel, Bala, Gwynedd LL23 7PS</p>
+          <p className="text-gold-600 font-elegant text-lg">palehall.co.uk</p>
         </div>
       </div>
 
@@ -502,9 +499,10 @@ function PrintableLeaflet({ artist, artworks, isPreview = false, variant = '1' }
               {pageArtworks.map((artwork) => (
                 <div key={artwork.id} className="no-break" style={{ minHeight: variant === '2' ? '200px' : '160px' }}>
                   {variant === '1' ? (
-                    // Variant 1: Compact layout with integrated QR
+                    // Variant 1: Title on top, then image and details side by side
                     <div className="bg-white p-3 border border-cream-300 rounded-lg shadow-sm">
-                      <div className="flex gap-3 items-center">
+                      <h3 className="font-display text-base font-bold text-forest-900 leading-tight mb-2">{artwork.name}</h3>
+                      <div className="flex gap-3 items-start">
                         <div className="flex-shrink-0">
                           <div className="bg-white p-1.5 border-2 border-gold-500 inline-block" style={{ width: '100px' }}>
                             <div className="border border-gold-400 bg-white">
@@ -520,7 +518,6 @@ function PrintableLeaflet({ artist, artworks, isPreview = false, variant = '1' }
                         
                         <div className="flex-1 flex flex-col justify-between">
                           <div>
-                            <h3 className="font-display text-base font-bold text-forest-900 leading-tight mb-1">{artwork.name}</h3>
                             {artwork.dimensions && (
                               <p className="text-forest-600 text-xs mb-1 font-body">{artwork.dimensions}</p>
                             )}
@@ -536,11 +533,11 @@ function PrintableLeaflet({ artist, artworks, isPreview = false, variant = '1' }
                           </div>
                           
                           {qrCodes[artwork.id] && (
-                            <div className="flex items-center gap-2 mt-2">
+                            <div className="flex items-center gap-2 mt-3">
                               <img 
                                 src={qrCodes[artwork.id]} 
                                 alt="QR Code"
-                                className="w-12 h-12"
+                                className="w-20 h-20"
                               />
                               <p className="text-xs text-forest-600 font-body">
                                 Scan for<br/>details

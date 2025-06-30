@@ -44,14 +44,62 @@ async function main() {
     fs.writeFileSync(enquiriesBackupFile, JSON.stringify(enquiries, null, 2))
     console.log(`✓ Backed up ${enquiries.length} enquiries to: ${enquiriesBackupFile}`)
     
-    // 5. Create a combined backup
+    // 5. Backup Users
+    console.log('\n👤 Backing up Users...')
+    const users = await prisma.user.findMany()
+    const usersBackupFile = path.join(backupDir, `users-backup-${timestamp}.json`)
+    fs.writeFileSync(usersBackupFile, JSON.stringify(users, null, 2))
+    console.log(`✓ Backed up ${users.length} users to: ${usersBackupFile}`)
+    
+    // 6. Backup Addresses
+    console.log('\n📍 Backing up Addresses...')
+    const addresses = await prisma.address.findMany()
+    const addressesBackupFile = path.join(backupDir, `addresses-backup-${timestamp}.json`)
+    fs.writeFileSync(addressesBackupFile, JSON.stringify(addresses, null, 2))
+    console.log(`✓ Backed up ${addresses.length} addresses to: ${addressesBackupFile}`)
+    
+    // 7. Backup Orders
+    console.log('\n🛒 Backing up Orders...')
+    const orders = await prisma.order.findMany()
+    const ordersBackupFile = path.join(backupDir, `orders-backup-${timestamp}.json`)
+    fs.writeFileSync(ordersBackupFile, JSON.stringify(orders, null, 2))
+    console.log(`✓ Backed up ${orders.length} orders to: ${ordersBackupFile}`)
+    
+    // 8. Backup Order Items
+    console.log('\n📦 Backing up Order Items...')
+    const orderItems = await prisma.orderItem.findMany()
+    const orderItemsBackupFile = path.join(backupDir, `orderItems-backup-${timestamp}.json`)
+    fs.writeFileSync(orderItemsBackupFile, JSON.stringify(orderItems, null, 2))
+    console.log(`✓ Backed up ${orderItems.length} order items to: ${orderItemsBackupFile}`)
+    
+    // 9. Backup Cart Items
+    console.log('\n🛒 Backing up Cart Items...')
+    const cartItems = await prisma.cartItem.findMany()
+    const cartItemsBackupFile = path.join(backupDir, `cartItems-backup-${timestamp}.json`)
+    fs.writeFileSync(cartItemsBackupFile, JSON.stringify(cartItems, null, 2))
+    console.log(`✓ Backed up ${cartItems.length} cart items to: ${cartItemsBackupFile}`)
+    
+    // 10. Backup Wishlist Items
+    console.log('\n❤️ Backing up Wishlist Items...')
+    const wishlistItems = await prisma.wishlistItem.findMany()
+    const wishlistItemsBackupFile = path.join(backupDir, `wishlistItems-backup-${timestamp}.json`)
+    fs.writeFileSync(wishlistItemsBackupFile, JSON.stringify(wishlistItems, null, 2))
+    console.log(`✓ Backed up ${wishlistItems.length} wishlist items to: ${wishlistItemsBackupFile}`)
+    
+    // 11. Create a combined backup
     console.log('\n💾 Creating combined backup...')
     const fullBackup = {
       timestamp,
       products,
       artists,
       activities,
-      enquiries
+      enquiries,
+      users,
+      addresses,
+      orders,
+      orderItems,
+      cartItems,
+      wishlistItems
     }
     const fullBackupFile = path.join(backupDir, `full-backup-${timestamp}.json`)
     fs.writeFileSync(fullBackupFile, JSON.stringify(fullBackup, null, 2))

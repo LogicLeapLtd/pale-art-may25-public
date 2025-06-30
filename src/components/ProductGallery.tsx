@@ -118,23 +118,25 @@ export default function ProductGallery() {
           </p>
         </div>
 
-        {/* Scrolling Gallery */}
-        {loading ? (
-          <div className="text-center text-cream-100">Loading artworks...</div>
-        ) : artworks.length === 0 ? (
-          <div className="text-center text-cream-100">No featured artworks found.</div>
-        ) : (
-          <div className={`relative transition-all duration-1000 delay-300 ${
-            isVisible ? 'opacity-100 scale-100' : 'opacity-0 scale-95'
-          }`}>
-            <div 
-              ref={scrollRef}
-              className="flex space-x-8 overflow-x-auto scrollbar-hide pb-8"
-              style={{
-                scrollBehavior: 'smooth',
-                WebkitOverflowScrolling: 'touch'
-              }}
-            >
+      </div>
+
+      {/* Full Width Scrolling Gallery */}
+      {loading ? (
+        <div className="text-center text-cream-100">Loading artworks...</div>
+      ) : artworks.length === 0 ? (
+        <div className="text-center text-cream-100">No featured artworks found.</div>
+      ) : (
+        <div className={`relative transition-all duration-1000 delay-300 ${
+          isVisible ? 'opacity-100 scale-100' : 'opacity-0 scale-95'
+        }`}>
+          <div 
+            ref={scrollRef}
+            className="flex space-x-8 overflow-x-auto scrollbar-hide pb-8 px-6 lg:px-8"
+            style={{
+              scrollBehavior: 'smooth',
+              WebkitOverflowScrolling: 'touch'
+            }}
+          >
               {/* Duplicate items for seamless loop */}
               {[...artworks, ...artworks].map((artwork, index) => (
                 <Link
@@ -195,7 +197,8 @@ export default function ProductGallery() {
           </div>
         )}
 
-        {/* Call to Action */}
+      {/* Call to Action */}
+      <div className="container-luxury">
         <div className={`text-center mt-16 transition-all duration-1000 delay-500 ${
           isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-8'
         }`}>
