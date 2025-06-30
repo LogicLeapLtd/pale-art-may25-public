@@ -1,6 +1,9 @@
 import { NextRequest, NextResponse } from 'next/server'
 import { prisma } from '@/lib/prisma'
 
+
+// Force Node.js runtime
+export const runtime = 'nodejs'
 // Batch update artworks
 export async function POST(request: NextRequest) {
   try {

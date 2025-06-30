@@ -3,6 +3,9 @@ import { z } from 'zod'
 import { prisma } from '@/lib/prisma'
 import { sendEnquiryEmail } from '@/lib/email'
 
+
+// Force Node.js runtime
+export const runtime = 'nodejs'
 const enquirySchema = z.object({
   name: z.string().min(2),
   email: z.string().email(),

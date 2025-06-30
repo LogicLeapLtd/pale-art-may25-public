@@ -1,6 +1,9 @@
 import { NextResponse } from 'next/server'
 import { prisma } from '@/lib/database'
 
+
+// Force Node.js runtime
+export const runtime = 'nodejs'
 export async function GET(
   request: Request,
   { params }: { params: Promise<{ id: string }> }

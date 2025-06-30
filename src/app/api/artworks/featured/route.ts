@@ -1,6 +1,9 @@
 import { NextResponse } from 'next/server'
 import { getFeaturedArtworks } from '@/lib/database'
 
+
+// Force Node.js runtime
+export const runtime = 'nodejs'
 export async function GET() {
   try {
     const artworks = await getFeaturedArtworks()

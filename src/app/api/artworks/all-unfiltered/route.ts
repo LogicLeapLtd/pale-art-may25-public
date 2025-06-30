@@ -1,6 +1,9 @@
 import { NextResponse } from 'next/server'
 import { prisma } from '@/lib/prisma'
 
+
+// Force Node.js runtime
+export const runtime = 'nodejs'
 export async function GET() {
   try {
     // Get ALL artworks without any filters for duplicate detection

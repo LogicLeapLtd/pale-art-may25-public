@@ -2,6 +2,9 @@ import { NextRequest, NextResponse } from 'next/server'
 import { prisma } from '@/lib/prisma'
 import { PRODUCTION_BASE_URL } from '@/lib/config'
 
+
+// Force Node.js runtime
+export const runtime = 'nodejs'
 export async function POST(
   request: NextRequest,
   { params }: { params: Promise<{ id: string }> }

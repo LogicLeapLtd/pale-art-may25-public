@@ -1,6 +1,9 @@
 import { NextRequest, NextResponse } from 'next/server'
 import { prisma } from '@/lib/prisma'
 
+
+// Force Node.js runtime
+export const runtime = 'nodejs'
 export async function POST(request: NextRequest) {
   try {
     console.log('Create artwork API called')

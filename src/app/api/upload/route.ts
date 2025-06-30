@@ -2,6 +2,9 @@ import { NextRequest, NextResponse } from 'next/server'
 import { put } from '@vercel/blob'
 import sharp from 'sharp'
 
+
+// Force Node.js runtime
+export const runtime = 'nodejs'
 export async function POST(request: NextRequest) {
   try {
     const formData = await request.formData()

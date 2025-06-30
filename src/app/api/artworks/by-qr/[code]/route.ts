@@ -1,6 +1,9 @@
 import { NextRequest, NextResponse } from 'next/server'
 import { getArtworkByQRCode } from '@/lib/database'
 
+
+// Force Node.js runtime
+export const runtime = 'nodejs'
 export async function GET(
   request: NextRequest,
   { params }: { params: Promise<{ code: string }> }

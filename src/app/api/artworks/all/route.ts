@@ -1,6 +1,9 @@
 import { NextResponse } from 'next/server'
 import { getAllArtworks } from '@/lib/database'
 
+// Force Node.js runtime to use standard PostgreSQL connections
+export const runtime = 'nodejs'
+
 export async function GET() {
   try {
     const artworks = await getAllArtworks()
